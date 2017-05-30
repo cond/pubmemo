@@ -6,3 +6,5 @@
 
 
 ## Application
+
+* [Microsoft Planner を使ったタスク管理の方法 | idea.toString();](http://idea.tostring.jp/?p=2380)
