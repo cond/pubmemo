@@ -30,16 +30,15 @@ Jekyllのブログサイトのベースを生成するサイト
 
 * [主キー制約と外部キー制約](https://msdn.microsoft.com/ja-jp/library/ms179610.aspx)
 
-* [制約の確認／作成／削除 － ＠IT](http://www.atmarkit.co.jp/fdb/ref/ref_oracle/constraint.html)  OracleやSQLの連載解説記事のインデクスがある
+* [制約の確認／作成／削除 - ＠IT](http://www.atmarkit.co.jp/fdb/ref/ref_oracle/constraint.html)  OracleやSQLの連載解説記事のインデクスがある
 
 # 開発環境
 
 * [universal-ctags で Vim からのコード参照を楽にする - Pon De Beach](http://mizukmb.hatenablog.com/entry/2016/05/04/082739)
-* [(翻訳): Ansibleを使ったデプロイに関する一考察 — そこはかとなく書くよん。](http://tdoc.info/blog/2015/01/14/deploying_with_ansible.html)
 
 ## Emacs
 
-* [Software Design連載記事「Emacsのトラノマキ」の原稿 — ありえるえりあ](http://dev.ariel-networks.com/articles/emacs/)
+* [Software Design連載記事「Emacsのトラノマキ」の原稿 - ありえるえりあ](http://dev.ariel-networks.com/articles/emacs/)
 * [helm-gtags-modeを導入してソースコードの読解する -- blog.10rane.com](http://blog.10rane.com/2014/09/17/to-reading-comprehension-of-the-source-code-by-introducing-the-helm-gtags-mode/)
 * [GNU GLOBALへのPygmentsパーサー取り込みでソースコード読みが信じられないくらいに捗るはず - Qiita](http://qiita.com/5t111111/items/c14ac68f762ce71a7760)
 * [Emacs での Rails 開発を GNU GLOBAL でだいぶ快適にする - Qiita](http://qiita.com/5t111111/items/5e854f6047d187ea21c7#_reference-d62c277c46666bebac72)
@@ -52,7 +51,7 @@ Jekyllのブログサイトのベースを生成するサイト
 # セキュリティ
 
 * [安全な脆弱性の作り方 - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20161216/p1)
-* [テクニカル サポート詐欺との戦い – 日本のセキュリティチーム](https://blogs.technet.microsoft.com/jpsecurity/2017/05/26/customer-guidance-for-wannacrypt-attacks/)
+* [テクニカル サポート詐欺との戦い - 日本のセキュリティチーム](https://blogs.technet.microsoft.com/jpsecurity/2017/05/26/customer-guidance-for-wannacrypt-attacks/)
 * [安全なWebアプリ開発の鉄則 2004](http://www.soi.wide.ad.jp/class/20040031/slides/10/) 高木さんのプレゼン
 
 ## WannaCry
