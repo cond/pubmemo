@@ -1,5 +1,12 @@
 # AWS
 
+## AWS CLI
+
+* [AWS Cli自分用Tips - Qiita](http://qiita.com/takachan/items/421928dc61c51af97fb1)  jqと組み合わせてさまざまな情報を表示する
+* [awslabs/awscli-aliases: Repository for AWS CLI aliases.](https://github.com/awslabs/awscli-aliases) AWS CLI用のalias
+
+## Misc
+
 * [【AWS】クラウドデザインパターン実践編／仮想IPアドレスによるFloating IPパターン ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws-cdp-floating-ip-pattern/)
 
 * [AWS Lambdaを紐解く](https://www.slideshare.net/keisuke69/aws-lambda-46129981) AWSの概要説明
