@@ -63,3 +63,8 @@ Jekyllのブログサイトのベースを生成するサイト
 # Android
 
 * [スマホにUSBキーボードを接続できる? - いまさら聞けないAndroidのなぜ | マイナビニュース](http://news.mynavi.jp/articles/2015/11/25/android_why/)
+
+# Google Spreadsheet
+
+* [NPM module: google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet)
+* [google スプレッドシート - dackdive's blog](http://dackdive.hateblo.jp/archive/category/google%20%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88)
