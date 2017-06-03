@@ -43,7 +43,7 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [AWS Black Belt Tech シリーズ 2015 - Amazon DynamoDB](https://www.slideshare.net/AmazonWebServicesJapan/20150805-aws-blackbeltdynamodb)
 * [DynamoDBの並列処理によるデータの欠損とProvisioning超過の対策 - VASILY DEVELOPERS BLOG](http://tech.vasily.jp/entry/dynamodb_feedback)
 * [API Gatewayから、AWS Lambdaを使わずにDynamoDBにアクセスする - Taste of Tech Topics](http://acro-engineer.hatenablog.com/entry/2016/09/23/120000)
-* [AWS DynamoDBの(新機能)TTLについて – クリエイティブ - ブログ - 株式会社テレビ朝日メディアプレックス](http://www.mediaplex.co.jp/blogs/creative/aws-dynamodb%E3%81%AE%E6%96%B0%E6%A9%9F%E8%83%BDttl%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
+* [AWS DynamoDBの(新機能)TTLについて - クリエイティブ - ブログ - 株式会社テレビ朝日メディアプレックス](http://www.mediaplex.co.jp/blogs/creative/aws-dynamodb%E3%81%AE%E6%96%B0%E6%A9%9F%E8%83%BDttl%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
 * [DynamoDBのパーティション分割問題について｜ハンズラボエンジニアブログ｜ハンズラボ株式会社](https://www.hands-lab.com/tech/entry/1592.html)
 
 ## Misc
