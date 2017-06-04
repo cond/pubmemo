@@ -6,6 +6,7 @@
 * [Project Tangoをいじってみた - Qiita](http://qiita.com/spaghet/items/2e4466ea29a8f7a37f4d)
 * [AbemaTVの動画配信を支えるサーバーサイドシステム](https://www.slideshare.net/yuichironakazawa2/abematv#57)
 * [Scala Days 2017 Copenhagen 3日目 - だがそれがいけなかった](http://todokr.hatenablog.com/entry/2017/06/04/061651)
+* [自分のブログに Elasticsearch + Vue.js で検索機能を付けたという発表をした | feedforce Engineers' blog](http://tech.feedforce.jp/vue-elasticsearch.html)
 
 # React
 

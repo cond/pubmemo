@@ -10,6 +10,7 @@
 * [awslabs/awscli-aliases: Repository for AWS CLI aliases.](https://github.com/awslabs/awscli-aliases) AWS CLI用のalias
 * [AWSで構築した環境にありがちなシェルスクリプトたち まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-shellscript-summary/)
 * [AWS Command Line Interface を使用して Amazon EC2 で開発環境をデプロイする - AWS Command Line Interface](http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/tutorial-ec2-ubuntu.html)
+* [AWS CLIを使ってS3上にあるファイル数とファイルサイズの合計を取得する ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-cli-count-s3-filesize/)
 
 ## EC2
 
@@ -35,6 +36,7 @@ AWS Lambdaの関数の開発、デプロイを行なうツールApexについて
 Lambdaのサンプル。LambdaをCronで起動して、AWSの利用料金をチェックする。
 
 * [AWSの料金をLambdaのcronで定期チェックしてSlackに通知する - Qiita](http://qiita.com/saku/items/fc6b70a420a5c510de2b)
+* [AWS LambdaによるRDSの自動削除スクリプト ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-lambda-rds-delete/)
 
 AWS LambdからRDSへ接続するチュートリアル。
 
@@ -75,12 +77,20 @@ AWS LambdからRDSへ接続するチュートリアル。
 
 ## RDS
 
+* [AWS データベースサービスの自動バックアップ設定まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/automated-snapshots-of-aws-database-services/)
+
 * [RDS for MySQLからAmazon Auroraに移行した話 - Timers Tech Blog](http://techblog.timers-inc.com/entry/2016/03/02/135607): 子育て家族アプリFammの話
 * [安全な Amazon RDS のアップデート | feedforce Engineers' blog](http://tech.feedforce.jp/safe-rds-update.html)
 
 ## S3
 
 * [AWS再入門 Amazon S3編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-aws-re-entering-s3/)
+
+## Beanstalk
+
+* [AWSのElastic Beanstalkでナウい構成のWebアプリを構築しよう! - Qiita](http://qiita.com/Mic-U/items/f9f0c03080d9cf6c3cc6)
+* [AWS再入門 AWS Elastic Beanstalk編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-aws-re-entering-elasticbeanstalk/)
+* [AWSでジョブWorkerを構成するベストプラクティス 〜 Beanstalk worker tierの巻 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-job-worker-beanstalk/)
 
 ## Misc
 
@@ -89,3 +99,4 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [[新ツール] AWS Serverless Application Model (AWS SAM) を使ってサーバーレスアプリケーションを構築する ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-serverless-application-model/)
 * [【登壇資料】AWSを使うサーバーサイドレシピ - ElastiCache, Amazon ECS, WAF + Lambda #gbfukuoka ｜ Developers.IO](http://dev.classmethod.jp/server-side/aws-serverside-recipe/)
 * [PHPアプリケーションのセッション管理にAWS ElastiCacheを使う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/php-session-elasticache/)
+
