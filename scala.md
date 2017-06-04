@@ -11,3 +11,21 @@
 # Play Framework2
 
 Web+DB Press 71号に「速習 Play framework 2」という特集がある。
+
+* [PlayでRESTful Webサービス | [フリュー公式] Tech Blog](http://tech.furyu.jp/blog/?p=64) : チュートリアル的記事。古いけどたぶん役に立つ
+* [Play を使った Web アプリケーション開発: 第 1 回: Play Framework と Scala でユーザー認証を管理する](https://www.ibm.com/developerworks/jp/web/library/wa-playful-web-dev-1-trs-bluemix/index.html)
+* [Play Framework (java)で簡単な検索アプリケーションを開発する - Qiita](http://qiita.com/rubytomato@github/items/17aed34b6294b4f205ea)
+* [Play Frameworkについてざっくり説明する | anopara](https://anopara.net/2015/01/29/play-framework%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%96%E3%81%A3%E3%81%8F%E3%82%8A%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B/)
+
+* [PlayFramework-Scala + (EC2 + ElasticIP + CloudFront) で LINE BOT オウム返し ｜ Developers.IO](http://dev.classmethod.jp/server-side/line-bot-scala-test/)
+* [PlayFrameworkをただの静的型付けMVCだと思って本番稼動させると死ぬ - サナギわさわさ.json](http://kakakazuma.hatenablog.com/entry/2016/03/09/010232)
+
+* [Scala x AWS Server Side Application Recipe // Speaker Deck](https://speakerdeck.com/wadayusuke/scala-x-aws-server-side-application-recipe)
+* [はじめてのPlay Frameworkで詰まった事のメモ - Qiita](http://qiita.com/digdagdag/items/b1be18f1c0db3b8fa3af)
+* [Java ラブなヌーラボにおける Scala + Playframework 体験記 // Speaker Deck](https://speakerdeck.com/nulabinc/java-rabunanuraboniokeru-scala-plus-playframework-ti-yan-ji)
+* [Playframework + Scalaを使ってSlackにメッセージを送って遊ぼう - AdwaysEngineersBlog - Adwaysエンジニアブログ](http://blog.engineer.adways.net/entry/46509131)
+
+## Web API with Play Framework
+
+* [Javaの常識を変えるPlay framework入門（5）：Playで体得するRESTfulアーキテクチャの基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1306/20/news014.html)
+* [複数のマイクロサービスと連携したWeb APIの設計と構築 in Playframework Scala / play-scala with services // Speaker Deck](https://speakerdeck.com/wadayusuke/play-scala-with-services)
