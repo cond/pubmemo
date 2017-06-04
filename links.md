@@ -32,7 +32,10 @@ Jekyllのブログサイトのベースを生成するサイト
 * [制約の確認／作成／削除 - ＠IT](http://www.atmarkit.co.jp/fdb/ref/ref_oracle/constraint.html)  OracleやSQLの連載解説記事のインデクスがある
 
 # Ansible
+
+* [書評: 初めてのAnsible — そこはかとなく書くよん。](http://tdoc.info/blog/2016/04/18/ansible_up_and_running.html)
 * [Ansible2.2のAWSモジュールを試す ｜ Developers.IO](http://dev.classmethod.jp/server-side/ansible/aws_module_in_ansible2-2/)
+* [Ansibleでよく使うファイル操作モジュール ｜ Developers.IO](http://dev.classmethod.jp/server-side/ansible/ansible-file-modules-intro/)
 * [渡辺 修司 ｜ Developers.IO](http://dev.classmethod.jp/author/shuji_w6e/page/2/)  Ansible関連の記事がたくさんある
 
 # 開発環境
@@ -82,3 +85,7 @@ Jekyllのブログサイトのベースを生成するサイト
 * [Scala先駆者インタビュー 最終回 ChatWork かとじゅんさん 〜前編〜 — 株式会社アットウェア](https://www.atware.co.jp/blog/2016/12/8/scala-vol8-j5ik2o-firstpart)
 * [【2017年版】Scalaフレームワーク5選比較と他言語からの移行｜フリエン](https://furien.jp/columns/193/)
 * [Akka と Amazon ECS で構築するワーカー基盤：1万件のメッセージを処理させてみた ｜ Developers.IO](http://dev.classmethod.jp/server-side/woker-on-akka-ecs/)
+
+## Golang
+
+* [go-swaggerを使う — そこはかとなく書くよん。](http://tdoc.info/blog/2016/12/07/go_swagger.html)

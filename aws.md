@@ -1,14 +1,21 @@
 # AWS
 
+## General
+
+* [「AWS Tips」最新記事一覧 - ITmedia Keywords](http://www.atmarkit.co.jp/ait/kw/awstips.html)  連載記事「AWS Tips」 @IT
+
 ## AWS CLI
 
 * [AWS Cli自分用Tips - Qiita](http://qiita.com/takachan/items/421928dc61c51af97fb1)  jqと組み合わせてさまざまな情報を表示する
 * [awslabs/awscli-aliases: Repository for AWS CLI aliases.](https://github.com/awslabs/awscli-aliases) AWS CLI用のalias
 * [AWSで構築した環境にありがちなシェルスクリプトたち まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-shellscript-summary/)
+* [AWS Command Line Interface を使用して Amazon EC2 で開発環境をデプロイする - AWS Command Line Interface](http://docs.aws.amazon.com/ja_jp/cli/latest/userguide/tutorial-ec2-ubuntu.html)
 
 ## EC2
 
 * [EC2起動時にスクリプトを実行する - notebook](http://swfz.hatenablog.com/entry/2015/10/15/202128)
+* [AWS Tips：User dataにスクリプトを設定してサーバー設定を自動化する - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/25/news016.html)
+* [AWS Tips：AWS APIでAWSの操作を自動化する - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/25/news015.html)
 
 ## Lambda
 
@@ -42,11 +49,14 @@ AWS LambdからRDSへ接続するチュートリアル。
 
 ## IAM
 
+* [AWS再入門 AWS IAM (Identity and Access Management) 編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-getting-started-again-aws-iam/#getting-started3)
 * [IAM のベストプラクティス - AWS Identity and Access Management](http://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/best-practices.html)
+* [AWS 権限管理のベストプラクティスについて考えてみた](https://blog.manabusakai.com/2015/03/aws-authority-management/)
 * [IAMロールを持たないEC2に対して、一括でIAMロールを付与する - Qiita](http://qiita.com/tkimura/items/b4711739496a0fdac06f)
 * [[AWS]セキュアにIAMユーザのMFA有効化する手順2017年度版 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/20170120-enabel-mfa/)
 * [IAMロール徹底理解 〜 AssumeRoleの正体 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/iam-role-and-assumerole/)
 * [【鍵管理】~/.aws/credentials を唯一のAPIキー管理場所とすべし【大指針】 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/exclusive-aws-credentials-location/)
+* [AWS Tips：IAMをより安全に使うには？ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/11/news007.html)
 
 ## DynamoDB
 
