@@ -4,8 +4,16 @@
 
 * [AWS Cli自分用Tips - Qiita](http://qiita.com/takachan/items/421928dc61c51af97fb1)  jqと組み合わせてさまざまな情報を表示する
 * [awslabs/awscli-aliases: Repository for AWS CLI aliases.](https://github.com/awslabs/awscli-aliases) AWS CLI用のalias
+* [AWSで構築した環境にありがちなシェルスクリプトたち まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-shellscript-summary/)
+
+## EC2
+
+* [EC2起動時にスクリプトを実行する - notebook](http://swfz.hatenablog.com/entry/2015/10/15/202128)
 
 ## Lambda
+
+* [AWS LambdaのIAMポリシーとリソースポリシーを理解しよう ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/policies-for-lambda/)
+* [初めてのLambda ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/sugano-002-lambda/)
 
 * [AWS Lambdaを紐解く](https://www.slideshare.net/keisuke69/aws-lambda-46129981) AWSの概要説明
 * [Lambda + RDS benchmark - Qiita](http://qiita.com/taruhachi/items/3f95ae3e84f56edb3787)
@@ -30,11 +38,15 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [AWS Lambdaをいろいろ暴く - Qiita](http://qiita.com/Keisuke69/items/9951a93fd711360a61c5)
 
 * [AWS Lambdaを使うときに注意する４つのこと -> ３つになりました - Qiita](http://qiita.com/imafuku/items/55844535dcc8e3861bd0#%E3%81%9D%E3%81%AE%EF%BC%92%E5%88%B6%E9%99%90)
+* [AWS Lambdaのログまわりに関すること まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/lambda-and-cloudwatch/)
 
 ## IAM
 
+* [IAM のベストプラクティス - AWS Identity and Access Management](http://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/best-practices.html)
 * [IAMロールを持たないEC2に対して、一括でIAMロールを付与する - Qiita](http://qiita.com/tkimura/items/b4711739496a0fdac06f)
 * [[AWS]セキュアにIAMユーザのMFA有効化する手順2017年度版 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/20170120-enabel-mfa/)
+* [IAMロール徹底理解 〜 AssumeRoleの正体 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/iam-role-and-assumerole/)
+* [【鍵管理】~/.aws/credentials を唯一のAPIキー管理場所とすべし【大指針】 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/exclusive-aws-credentials-location/)
 
 ## DynamoDB
 
@@ -53,3 +65,7 @@ AWS LambdからRDSへ接続するチュートリアル。
 子育て家族アプリFamm が、Amazon RDS for MySQL から Amazon Aurora へと移行した話。
 
 * [RDS for MySQLからAmazon Auroraに移行した話 - Timers Tech Blog](http://techblog.timers-inc.com/entry/2016/03/02/135607)
+
+* [[新ツール] AWS Serverless Application Model (AWS SAM) を使ってサーバーレスアプリケーションを構築する ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-serverless-application-model/)
+* [【登壇資料】AWSを使うサーバーサイドレシピ - ElastiCache, Amazon ECS, WAF + Lambda #gbfukuoka ｜ Developers.IO](http://dev.classmethod.jp/server-side/aws-serverside-recipe/)
+* [PHPアプリケーションのセッション管理にAWS ElastiCacheを使う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/php-session-elasticache/)

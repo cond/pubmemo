@@ -31,6 +31,10 @@ Jekyllのブログサイトのベースを生成するサイト
 
 * [制約の確認／作成／削除 - ＠IT](http://www.atmarkit.co.jp/fdb/ref/ref_oracle/constraint.html)  OracleやSQLの連載解説記事のインデクスがある
 
+# Ansible
+* [Ansible2.2のAWSモジュールを試す ｜ Developers.IO](http://dev.classmethod.jp/server-side/ansible/aws_module_in_ansible2-2/)
+* [渡辺 修司 ｜ Developers.IO](http://dev.classmethod.jp/author/shuji_w6e/page/2/)  Ansible関連の記事がたくさんある
+
 # 開発環境
 
 * [universal-ctags で Vim からのコード参照を楽にする - Pon De Beach](http://mizukmb.hatenablog.com/entry/2016/05/04/082739)
@@ -52,6 +56,8 @@ Jekyllのブログサイトのベースを生成するサイト
 * [安全な脆弱性の作り方 - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20161216/p1)
 * [テクニカル サポート詐欺との戦い - 日本のセキュリティチーム](https://blogs.technet.microsoft.com/jpsecurity/2017/05/26/customer-guidance-for-wannacrypt-attacks/)
 * [安全なWebアプリ開発の鉄則 2004](http://www.soi.wide.ad.jp/class/20040031/slides/10/) 高木さんのプレゼン
+* [新入社員のためのWAF(Web Application Firewall)入門 ｜ Developers.IO](http://dev.classmethod.jp/security/getting-started-waf/)
+
 
 ## WannaCry
 
@@ -75,3 +81,4 @@ Jekyllのブログサイトのベースを生成するサイト
 * [Scalaプログラミング入門](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/scala.html) 神戸大による
 * [Scala先駆者インタビュー 最終回 ChatWork かとじゅんさん 〜前編〜 — 株式会社アットウェア](https://www.atware.co.jp/blog/2016/12/8/scala-vol8-j5ik2o-firstpart)
 * [【2017年版】Scalaフレームワーク5選比較と他言語からの移行｜フリエン](https://furien.jp/columns/193/)
+* [Akka と Amazon ECS で構築するワーカー基盤：1万件のメッセージを処理させてみた ｜ Developers.IO](http://dev.classmethod.jp/server-side/woker-on-akka-ecs/)
