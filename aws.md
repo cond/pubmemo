@@ -58,6 +58,11 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [【鍵管理】~/.aws/credentials を唯一のAPIキー管理場所とすべし【大指針】 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/exclusive-aws-credentials-location/)
 * [AWS Tips：IAMをより安全に使うには？ - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/11/news007.html)
 
+## VPC
+
+* [AWS Black Belt Techシリーズ Amazon VPC](https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-tech-amazon-vpc-47025202)
+* [AWS再入門 Amazon VPC編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/cm-advent-calendar-2015-aws-re-entering-vpc/)
+
 ## DynamoDB
 
 * [DynamoDB の基礎知識とまとめ - Qiita](http://qiita.com/hshimo/items/e5ad98b21786d796f1da)
@@ -68,13 +73,18 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [AWS DynamoDBの(新機能)TTLについて - クリエイティブ - ブログ - 株式会社テレビ朝日メディアプレックス](http://www.mediaplex.co.jp/blogs/creative/aws-dynamodb%E3%81%AE%E6%96%B0%E6%A9%9F%E8%83%BDttl%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
 * [DynamoDBのパーティション分割問題について｜ハンズラボエンジニアブログ｜ハンズラボ株式会社](https://www.hands-lab.com/tech/entry/1592.html)
 
+## RDS
+
+* [RDS for MySQLからAmazon Auroraに移行した話 - Timers Tech Blog](http://techblog.timers-inc.com/entry/2016/03/02/135607): 子育て家族アプリFammの話
+* [安全な Amazon RDS のアップデート | feedforce Engineers' blog](http://tech.feedforce.jp/safe-rds-update.html)
+
+## S3
+
+* [AWS再入門 Amazon S3編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-aws-re-entering-s3/)
+
 ## Misc
 
 * [【AWS】クラウドデザインパターン実践編／仮想IPアドレスによるFloating IPパターン ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws-cdp-floating-ip-pattern/)
-
-子育て家族アプリFamm が、Amazon RDS for MySQL から Amazon Aurora へと移行した話。
-
-* [RDS for MySQLからAmazon Auroraに移行した話 - Timers Tech Blog](http://techblog.timers-inc.com/entry/2016/03/02/135607)
 
 * [[新ツール] AWS Serverless Application Model (AWS SAM) を使ってサーバーレスアプリケーションを構築する ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-serverless-application-model/)
 * [【登壇資料】AWSを使うサーバーサイドレシピ - ElastiCache, Amazon ECS, WAF + Lambda #gbfukuoka ｜ Developers.IO](http://dev.classmethod.jp/server-side/aws-serverside-recipe/)
