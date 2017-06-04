@@ -3,6 +3,7 @@
 ## Tools
 
 * [direnvは環境変数の上書きもよしなにやってくれる! - Masteries](http://papix.hatenablog.com/entry/2017/05/30/223831)
+* [SwaggerでAPIを定義してインタラクティブAPIドキュメントを見る - Qiita](http://qiita.com/NewGyu/items/64adc3c5dd3ab8ad6087)
 
 ## Platform
 
