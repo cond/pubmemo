@@ -49,6 +49,8 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [AWS Lambdaを使うときに注意する４つのこと -> ３つになりました - Qiita](http://qiita.com/imafuku/items/55844535dcc8e3861bd0#%E3%81%9D%E3%81%AE%EF%BC%92%E5%88%B6%E9%99%90)
 * [AWS Lambdaのログまわりに関すること まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/lambda-and-cloudwatch/)
 
+* [AWS Lambda で Play（Scala） のバッチ処理を実行する - NET BIZ DIV. TECH BLOG](https://tech.recruit-mp.co.jp/server-side/post-5473/)
+
 ## IAM
 
 * [AWS再入門 AWS IAM (Identity and Access Management) 編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-getting-started-again-aws-iam/#getting-started3)
@@ -64,6 +66,7 @@ AWS LambdからRDSへ接続するチュートリアル。
 
 * [AWS Black Belt Techシリーズ Amazon VPC](https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-tech-amazon-vpc-47025202)
 * [AWS再入門 Amazon VPC編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/cm-advent-calendar-2015-aws-re-entering-vpc/)
+* [インフラエンジニアに贈るAmazon VPC入門 #2 IPアドレスとMACアドレスの管理 ｜ Developers.IO](http://dev.classmethod.jp/cloud/vpcfor-infra-engineer-2/)
 
 ## DynamoDB
 

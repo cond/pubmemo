@@ -9,6 +9,7 @@
 ## Platform
 
 * [Datadogの本当の魅力とは - Qiita](http://qiita.com/jhotta/items/e7e20a1acd797bf2665b)  Datadogは運用モニタリングツール
+* [Big Sky :: ログイン認証をマイクロサービス化する「loginsrv」](http://mattn.kaoriya.net/software/lang/go/20170602113221.htm)
 
 ## Application
 
