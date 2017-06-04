@@ -1,3 +1,12 @@
+# New!
+
+* [GraphQLの話 (API for Front-end) // Speaker Deck](https://speakerdeck.com/koba789/graphqlfalsehua-api-for-front-end)
+* [オフラインファースト的なGUIアプリケーションをScala.jsで書く話 / write stack - usecase - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](http://nekogata.hatenablog.com/entry/2017/05/25/004101)
+* [結局VanillaJSである。 - nobkzのブログ](http://nobkz.hatenadiary.jp/entry/2017/05/06/134723)
+* [Project Tangoをいじってみた - Qiita](http://qiita.com/spaghet/items/2e4466ea29a8f7a37f4d)
+* [AbemaTVの動画配信を支えるサーバーサイドシステム](https://www.slideshare.net/yuichironakazawa2/abematv#57)
+* [Scala Days 2017 Copenhagen 3日目 - だがそれがいけなかった](http://todokr.hatenablog.com/entry/2017/06/04/061651)
+
 # React
 
 コンポーネントを作るためのreact-storybookというツールを紹介している。
@@ -89,3 +98,8 @@ Jekyllのブログサイトのベースを生成するサイト
 ## Golang
 
 * [go-swaggerを使う — そこはかとなく書くよん。](http://tdoc.info/blog/2016/12/07/go_swagger.html)
+* [Go言語の型とreflect - Qiita](http://qiita.com/atsaki/items/3554f5a0609c59a3e10d)
+
+## Spark
+
+* [Sparkクラスタ上で好きなPythonライブラリをCloudera Data Science Workbenchから使う](https://blog.cloudera.co.jp/use-your-favorite-python-library-on-pyspark-33097ac868fb)
