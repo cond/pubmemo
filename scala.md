@@ -7,8 +7,13 @@
 * [Scala先駆者インタビュー 最終回 ChatWork かとじゅんさん 〜前編〜 — 株式会社アットウェア](https://www.atware.co.jp/blog/2016/12/8/scala-vol8-j5ik2o-firstpart)
 * [【2017年版】Scalaフレームワーク5選比較と他言語からの移行｜フリエン](https://furien.jp/columns/193/)
 * [Akka と Amazon ECS で構築するワーカー基盤：1万件のメッセージを処理させてみた ｜ Developers.IO](http://dev.classmethod.jp/server-side/woker-on-akka-ecs/)
+* [Scala Advent Calendar 2016 - Qiita](http://qiita.com/advent-calendar/2016/scala)
 
-# Play Framework2
+## Akka
+
+* [並行処理初心者のためのAkka入門](https://www.slideshare.net/sifue/akka-39611889)
+
+## Play Framework2
 
 Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 
