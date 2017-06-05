@@ -81,9 +81,18 @@ AWS LambdからRDSへ接続するチュートリアル。
 ## RDS
 
 * [AWS データベースサービスの自動バックアップ設定まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/automated-snapshots-of-aws-database-services/)
+* [安全な Amazon RDS のアップデート | feedforce Engineers' blog](http://tech.feedforce.jp/safe-rds-update.html)
+
+## Aurora
 
 * [RDS for MySQLからAmazon Auroraに移行した話 - Timers Tech Blog](http://techblog.timers-inc.com/entry/2016/03/02/135607): 子育て家族アプリFammの話
-* [安全な Amazon RDS のアップデート | feedforce Engineers' blog](http://tech.feedforce.jp/safe-rds-update.html)
+
+NulabでのAuroraへの移行。
+
+* [Amazon Aurora への移行 ～ 狙いと効果 / Amazon Aurora Collaborates With Nulab // Speaker Deck](https://speakerdeck.com/nulabinc/amazon-aurora-collaborates-with-nulab)
+* [実録！サービスを止めずに Amazon Aurora へ移行した話 | ヌーラボ](https://nulab-inc.com/ja/blog/nulab/migrate-to-aurora/)
+* [密着 24時！ MySQL 5.1 から Aurora への移行100日間 〜 Backlog 編 | ヌーラボ](https://nulab-inc.com/ja/blog/backlog/migrate-aurora/)
+
 
 ## S3
 
