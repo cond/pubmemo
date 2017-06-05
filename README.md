@@ -6,3 +6,4 @@ cond's public memo
 * [AWS](aws.md)
 * [Scala](scala.md)
 * [Tool and Application](tool-application.md)
+* [My Favorite](myfavorite.md)
