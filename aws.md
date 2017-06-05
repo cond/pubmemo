@@ -3,6 +3,7 @@
 ## General
 
 * [「AWS Tips」最新記事一覧 - ITmedia Keywords](http://www.atmarkit.co.jp/ait/kw/awstips.html)  連載記事「AWS Tips」 @IT
+* [【登壇資料】運用担当者にやさしいサービス設計について話してきました #cm_osaka ｜ Developers.IO](http://dev.classmethod.jp/cloud/cm-osaka-operation-for-operator/)
 
 ## AWS CLI
 
@@ -50,6 +51,8 @@ AWS LambdからRDSへ接続するチュートリアル。
 * [AWS Lambdaのログまわりに関すること まとめ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/lambda-and-cloudwatch/)
 
 * [AWS Lambda で Play（Scala） のバッチ処理を実行する - NET BIZ DIV. TECH BLOG](https://tech.recruit-mp.co.jp/server-side/post-5473/)
+
+* [S3をトリガーとするLambdaの冪等性をDynamoDBで実現してみた ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/lambda-dynamodb/)
 
 ## IAM
 
