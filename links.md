@@ -30,6 +30,17 @@ Jekyllのブログサイトのベースを生成するサイト
 
 * [WordpressからJekyllに移行した時に、ファイル名がエンコードされてしまう件 | Web Scratch](http://efcl.info/2014/07/11/decode-file-name/)
 
+* [WordPressからJekyllにブログシステムを移行](http://nmi.jp/2016-07-23-migrating-blog-system)
+* [はてなとWordpressから最強ブログシステムに移行する](http://blog.wktk.co.jp/ja/entry/2013/04/26/wordpress-to-jekyll)
+
+Jekyll Nowというサイトをつかって、かんたんにGitHub Pagesにホストするブログを作れるようだ。
+
+* [クリック1発で、Github上にブログを無料で作成できる「Jekyll Now」が超絶便利！ | シェアしたくなる最新のWebサービス・ITニュース情報をチェック！ APPGIGA!!（アプギガ）](http://plus.appgiga.jp/masatolan/2015/01/13/55047/)
+* [barryclark/jekyll-now: Build a Jekyll blog in minutes, without touching the command line.](https://github.com/barryclark/jekyll-now) : Jekyll Now@github
+
+* [mmistakes/minimal-mistakes: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.](https://github.com/mmistakes/minimal-mistakes):  Jekyll Nowのテーマminimal-mistakes。なかなか良さそう。
+
+
 # Front End
 
 * [リクルート流フロントエンド開発のリアルを紹介～Recruit Technologies Night　Vol.5開催報告 | リクルートテクノロジーズ　メンバーズブログ](https://recruit-tech.co.jp/blog/2017/04/14/rtechnight5/)
@@ -85,6 +96,11 @@ Jekyllのブログサイトのベースを生成するサイト
 
 * [NPM module: google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet)
 * [google スプレッドシート - dackdive's blog](http://dackdive.hateblo.jp/archive/category/google%20%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88)
+
+# Google slides
+
+* [Google Slides APIが公開されたので使ってみた - Qiita](http://qiita.com/howdy39/items/be30170f8722c6837ea5)
+* [md2googleslidesを使ってMarkdownを簡単にパワーポイントのスライドにする - Qiita](http://qiita.com/o_-____-___-o/items/acc38ccd242533c735cc#_reference-a03c6732873f8e3b109e)
 
 ## Golang
 
