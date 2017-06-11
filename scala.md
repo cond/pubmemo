@@ -10,6 +10,8 @@
 * [Scala Advent Calendar 2016 - Qiita](http://qiita.com/advent-calendar/2016/scala)
 * [Scala Matsuri 2017](https://www.slideshare.net/yoshiyoshifujii/scala-matsuri-2017)
 
+* [RestyというScala用のREST APIフレームワークを作ってみました - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2016/11/28/095454)
+
 ## Akka
 
 O'Reillyから"Effective Akka"という本が出ている。
