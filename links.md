@@ -74,6 +74,7 @@ Jekyll Nowというサイトをつかって、かんたんにGitHub Pagesにホ�
 * [#12 Emacs に革命を起こすパッケージ「helm」 (Software Design 2015年4月号掲載記事) Emacs helm migemo インストール 設定 使い方](http://emacs.rubikitch.com/sd1504-helm/)
 * [最近の自分のEmacs設定 (package整理、helmへの移行など) - すぎゃーんメモ](http://memo.sugyan.com/entry/20140227/1393511303)
 * [Emacs で wdired と moccur-edit を使っていない人は(ry - Higepon’s blog](http://d.hatena.ne.jp/higepon/20061226/1167098839)
+* [初心者〜初級者のためのEmacs-Helm事始め : 前編 - Qiita](http://qiita.com/jabberwocky0139/items/86df1d3108e147c69e2c)
 
 # セキュリティ
 
@@ -111,3 +112,7 @@ Jekyll Nowというサイトをつかって、かんたんにGitHub Pagesにホ�
 ## Spark
 
 * [Sparkクラスタ上で好きなPythonライブラリをCloudera Data Science Workbenchから使う](https://blog.cloudera.co.jp/use-your-favorite-python-library-on-pyspark-33097ac868fb)
+
+# Chromebook
+
+* [ChromebookにUbuntuをインストールする方法 | Chrome速報](http://chromesoku.com/ubuntu-on-chromebook/)

@@ -107,6 +107,11 @@ NulabでのAuroraへの移行。
 * [AWS再入門 AWS Elastic Beanstalk編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-aws-re-entering-elasticbeanstalk/)
 * [AWSでジョブWorkerを構成するベストプラクティス 〜 Beanstalk worker tierの巻 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/aws-job-worker-beanstalk/)
 
+## AWS Certificate Manager (無料SSL)
+
+* [AWS Certificate Managerで無料SSL - Qiita](http://qiita.com/tomohisaota/items/c86fe98e672f74038bd3)
+* [[AWS Certificate Manager]東京でも無料でSSL証明書が使用可能になりました！ ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/acm-available-in-tokyo/)
+
 ## Misc
 
 * [【AWS】クラウドデザインパターン実践編／仮想IPアドレスによるFloating IPパターン ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws-cdp-floating-ip-pattern/)
