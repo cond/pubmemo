@@ -40,6 +40,8 @@ Jekyll Nowというサイトをつかって、かんたんにGitHub Pagesにホ�
 
 * [mmistakes/minimal-mistakes: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.](https://github.com/mmistakes/minimal-mistakes):  Jekyll Nowのテーマminimal-mistakes。なかなか良さそう。
 
+* [Big Sky :: GitHub Pages が Jekyll 3.0 になり、ますますブログが書きやすくなった。](http://mattn.kaoriya.net/software/20160215110235.htm)
+* [Build A Blog With Jekyll And GitHub Pages - Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 # Front End
 
