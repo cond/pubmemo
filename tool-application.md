@@ -5,6 +5,7 @@
 * [direnvは環境変数の上書きもよしなにやってくれる! - Masteries](http://papix.hatenablog.com/entry/2017/05/30/223831)
 * [SwaggerでAPIを定義してインタラクティブAPIドキュメントを見る - Qiita](http://qiita.com/NewGyu/items/64adc3c5dd3ab8ad6087)
 * [モック用のJSONやCSVなどのデータを大量にかつ簡単に作成できるMockarooを試してみた - とんちむ日記](http://tonchix.hatenablog.com/entry/2017/05/09/211853)
+* [Grafanaでかっけぇダッシュボード作るよ！(構築・設定編) – サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/2016/03/11/play-with-grafana-1/)
 
 ## Platform
 
