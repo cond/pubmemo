@@ -7,3 +7,4 @@ cond's public memo
 * [Scala](scala.md)
 * [Tool and Application](tool-application.md)
 * [My Favorite](myfavorite.md)
+* [Computing](computing.md)
