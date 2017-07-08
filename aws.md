@@ -55,6 +55,8 @@ AWS LambdからRDSへ接続するチュートリアル。
 
 * [S3をトリガーとするLambdaの冪等性をDynamoDBで実現してみた ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/lambda-dynamodb/)
 
+* [サーバーレス – サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/category/techical/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%82%b9/)
+
 ## IAM
 
 * [AWS再入門 AWS IAM (Identity and Access Management) 編 ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/cm-advent-calendar-2015-getting-started-again-aws-iam/#getting-started3)
