@@ -41,6 +41,8 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [Playframework + Scalaを使ってSlackにメッセージを送って遊ぼう - AdwaysEngineersBlog - Adwaysエンジニアブログ](http://blog.engineer.adways.net/entry/46509131)
 * [React + Playの認証/認可方法を調べてみた - Qiita](http://qiita.com/ytanak/items/4d75c5012b20a9d55822)
 
+* [(60分クッキング) Play Framework (Scala)+MySQLでREST APIサーバーを作る - Qiita](http://qiita.com/AKB428/items/bbb085a06c37bd84d0be)
+
 ## Web API with Play Framework
 
 * [Javaの常識を変えるPlay framework入門（5）：Playで体得するRESTfulアーキテクチャの基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1306/20/news014.html)
