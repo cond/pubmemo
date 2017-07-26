@@ -8,3 +8,4 @@ cond's public memo
 * [Tool and Application](tool-application.md)
 * [My Favorite](myfavorite.md)
 * [Computing](computing.md)
+* [Random memo](memo.md)
