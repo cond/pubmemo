@@ -110,6 +110,7 @@ Jekyll Nowというサイトをつかって、かんたんにGitHub Pagesにホ�
 * [go-swaggerを使う — そこはかとなく書くよん。](http://tdoc.info/blog/2016/12/07/go_swagger.html)
 * [Go言語の型とreflect - Qiita](http://qiita.com/atsaki/items/3554f5a0609c59a3e10d)
 * [Big Sky :: Re: Go言語感想文](http://mattn.kaoriya.net/software/lang/go/20170603001109.htm)
+* [A Tour of Goを終えたあなたにおすすめのGoを勉強するためのリソース - すずけんメモ](http://suzuken.hatenablog.jp/entry/2017/07/21/121149)
 
 ## Spark
 
