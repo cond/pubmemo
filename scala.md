@@ -1,6 +1,7 @@
 # Scala
 
 * [Scalaに関する誤解と事実を語る - kmizuの日記](http://kmizu.hatenablog.com/entry/2017/05/06/160822)
+* [Scalaの記号みたいな奴らなんなの - Qiita](http://qiita.com/harry0000/items/113b5ddbe64a2835a6e2)
 * [Scala入門としてCLIツールを作り、Scala.js, React, ScalaCSSでサイトを作った - マルシテイア](http://amagitakayosi.hatenablog.com/entry/2017/04/07/170000)
 * [Scalaとは - Scala研修テキスト](https://dwango.github.io/scala_text/introduction-to-scala.html) Dwangoによる
 * [Scalaプログラミング入門](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/scala.html) 神戸大による
