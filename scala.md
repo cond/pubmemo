@@ -49,6 +49,9 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235)
 * [Play 2.5に入門　(1)近況を概観 - Qiita](http://qiita.com/kmry2045/items/25dc1aadf591e21fbbf2)
 * [Play 2.4でのCRUD処理（＋Akka）をJavaとScalaの2つの実装で比較してみる - Qiita](http://qiita.com/erin/items/4bbdcfa27b766309bda4)
+* [ScalaTodoList - 2.2.x](https://www.playframework.com/documentation/2.2.x/ScalaTodoList)
+* [Play2 + Slickハンズオンをやりおえました - YoshinoriN's Memento](https://yoshinorin.net/2017/03/26/finish-play2-slick-hands-on/)
+* [bizreach/play2-hands-on: Play2 + Slick / ScalikeJDBCを使ってWebアプリケーションを作成するハンズオンです。](https://github.com/bizreach/play2-hands-on)
 
 ## Web API with Play Framework
 
