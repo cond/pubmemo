@@ -21,6 +21,7 @@ O'Reillyから"Effective Akka"という本が出ている。
 * [Akkaで実現するステートフルでスケーラブルなアーキテクチャ](https://www.slideshare.net/yugolf/akka-66885408)
 * [Akka-chan's Survival Guide for the Streaming World](https://www.slideshare.net/ktoso/akkachans-survival-guide-for-the-streaming-world): Akka Streamの話。難しい。
 * [WebSocket のチャットサーバを Akka Streams の MergeHub と BroadcastHub で実装する ｜ Developers.IO](http://dev.classmethod.jp/server-side/chatserver-play-websocket-akka-stream/)
+* [Akkaちゃんと遊ぼう！ Akka Streams で作るリアルタイムサーバ #scalafukuoka / Implement stream server with Akka Streams and WebSocket // Speaker Deck](https://speakerdeck.com/wadayusuke/implement-stream-server-with-akka-streams-and-websocket)とても良いAkkaのチュートリアル
 
 * [mumoshu: ScalaでMMOのサーバを書くための技術](http://mumoshu.blogspot.jp/2012/12/scalammo.html): 2012年の記事だが、すごい力作。
 
