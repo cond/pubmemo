@@ -6,6 +6,10 @@
 * [【登壇資料】運用担当者にやさしいサービス設計について話してきました #cm_osaka ｜ Developers.IO](http://dev.classmethod.jp/cloud/cm-osaka-operation-for-operator/)
 * [サーバーレス – サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/category/techical/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%82%b9/)
 
+* [Lambda + Apex 事例紹介 ~ 全ては AWS コスト削減のために ~ - kakakakakku blog](http://kakakakakku.hatenablog.com/entry/2017/03/11/001233)
+* [CloudWatch Events + Lambda + CircleCI + Apex で Lambda をサーバレスに実行 & デプロイする - kakakakakku blog](http://kakakakakku.hatenablog.com/entry/2017/02/17/225710)
+* [AWS LambdaでPerlのスクリプトを動かす - blogですかい](http://oh-sky.hatenablog.com/entry/2015/10/19/010516)
+
 ## AWS CLI
 
 * [AWS Cli自分用Tips - Qiita](http://qiita.com/takachan/items/421928dc61c51af97fb1)  jqと組み合わせてさまざまな情報を表示する
