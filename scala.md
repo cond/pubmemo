@@ -45,6 +45,8 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 
 * [(60分クッキング) Play Framework (Scala)+MySQLでREST APIサーバーを作る - Qiita](http://qiita.com/AKB428/items/bbb085a06c37bd84d0be)
 
+* [Scala * PlayでWebアプリ制作 ~バージョンの罠にはまる~ - AdwaysEngineersBlog - Adwaysエンジニアブログ](http://blog.engineer.adways.net/entry/2017/02/03/160000)
+
 ## Play 2.5
 
 * [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235)
