@@ -47,6 +47,10 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 
 * [Scala * PlayでWebアプリ制作 ~バージョンの罠にはまる~ - AdwaysEngineersBlog - Adwaysエンジニアブログ](http://blog.engineer.adways.net/entry/2017/02/03/160000)
 
+* [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235)
+* [PlayFrameworkでチャットアプリ - Qiita](http://qiita.com/hys-rabbit/items/32967e8a76b2c894ead1)
+* [Play Frameworkハンズオン - Qiita](http://qiita.com/yuichi0301/items/ead86d0251b954f07935)
+
 ## Play 2.5
 
 * [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235)
