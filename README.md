@@ -9,3 +9,4 @@ cond's public memo
 * [My Favorite](myfavorite.md)
 * [Computing](computing.md)
 * [Random memo](memo.md)
+* [Technical](technical.md)
