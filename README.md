@@ -10,3 +10,4 @@ cond's public memo
 * [Computing](computing.md)
 * [Random memo](memo.md)
 * [Technical](technical.md)
+* [Startup stories](startup.md)
