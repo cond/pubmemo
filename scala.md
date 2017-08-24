@@ -1,10 +1,27 @@
 # Scala
 
-* [Scalaに関する誤解と事実を語る - kmizuの日記](http://kmizu.hatenablog.com/entry/2017/05/06/160822)
+## Scala Essentials
+
 * [Scalaの記号みたいな奴らなんなの - Qiita](http://qiita.com/harry0000/items/113b5ddbe64a2835a6e2)
-* [Scala入門としてCLIツールを作り、Scala.js, React, ScalaCSSでサイトを作った - マルシテイア](http://amagitakayosi.hatenablog.com/entry/2017/04/07/170000)
+* [Scala の省略ルール早覚え](https://gist.github.com/gakuzzzz/10104162)
+* [Scalaクラスメモ(Hishidama's Scala class Memo)](http://www.ne.jp/asahi/hishidama/home/tech/scala/class.html)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-ja.html)
+* [Scalaのクラスについて - Qiita](http://qiita.com/544/items/774e9a0bfed5507fad14)
+* [Scala言語を急ぎ足で学ぶ(勉強メモ 1/2) - 技術memo](http://nenono.hatenablog.com/entry/2015/03/17/165036)
+
+### Textbooks
+
 * [Scalaとは - Scala研修テキスト](https://dwango.github.io/scala_text/introduction-to-scala.html) Dwangoによるテキスト
 * [Scalaプログラミング入門](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/scala.html) 神戸大による
+* [Hatena-Textbook/foundation-of-programming-scala.md at master · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-scala.md)
+* [Hatena-Textbook/database-programming-scala.md at master · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-scala.md)
+* [Hatena-Textbook/web-application-development-scala.md at master · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md)
+* [Scala Style Guide リーディングメモ - seratch's weblog in Japanese](http://seratch.hatenablog.jp/entry/20120128/1327762079)
+
+## Scala misc
+
+* [Scalaに関する誤解と事実を語る - kmizuの日記](http://kmizu.hatenablog.com/entry/2017/05/06/160822)
+* [Scala入門としてCLIツールを作り、Scala.js, React, ScalaCSSでサイトを作った - マルシテイア](http://amagitakayosi.hatenablog.com/entry/2017/04/07/170000)
 * [Scala先駆者インタビュー 最終回 ChatWork かとじゅんさん 〜前編〜 — 株式会社アットウェア](https://www.atware.co.jp/blog/2016/12/8/scala-vol8-j5ik2o-firstpart)
 * [【2017年版】Scalaフレームワーク5選比較と他言語からの移行｜フリエン](https://furien.jp/columns/193/)
 * [Akka と Amazon ECS で構築するワーカー基盤：1万件のメッセージを処理させてみた ｜ Developers.IO](http://dev.classmethod.jp/server-side/woker-on-akka-ecs/)
