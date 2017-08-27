@@ -42,6 +42,9 @@ O'Reillyから"Effective Akka"という本が出ている。
 
 * [mumoshu: ScalaでMMOのサーバを書くための技術](http://mumoshu.blogspot.jp/2012/12/scalammo.html): 2012年の記事だが、すごい力作。
 
+* [Play2を使うならAkkaも使っちゃおうぜな話 - Opt Technologies Magazine](http://tech-magazine.opt.ne.jp/entry/2016/04/07/100833)
+* [Akka 基本的な使い方 (Scala) - Qoosky](https://www.qoosky.io/techs/e0f555bc87)
+
 ## Play Framework2
 
 Web+DB Press 71号に「速習 Play framework 2」という特集がある。
