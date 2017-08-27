@@ -13,9 +13,9 @@
 
 * [Scalaとは - Scala研修テキスト](https://dwango.github.io/scala_text/introduction-to-scala.html) Dwangoによるテキスト
 * [Scalaプログラミング入門](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/scala.html) 神戸大による
-* [Hatena-Textbook/foundation-of-programming-scala.md at master · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-scala.md)
-* [Hatena-Textbook/database-programming-scala.md at master · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-scala.md)
-* [Hatena-Textbook/web-application-development-scala.md at master · hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md)
+* [Hatena-Textbook/foundation-of-programming-scala.md at master ・ hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-scala.md)
+* [Hatena-Textbook/database-programming-scala.md at master ・ hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-scala.md)
+* [Hatena-Textbook/web-application-development-scala.md at master ・ hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md)
 * [Scala Style Guide リーディングメモ - seratch's weblog in Japanese](http://seratch.hatenablog.jp/entry/20120128/1327762079)
 
 ## Scala misc

@@ -4,7 +4,7 @@
 
 * [「AWS Tips」最新記事一覧 - ITmedia Keywords](http://www.atmarkit.co.jp/ait/kw/awstips.html)  連載記事「AWS Tips」 @IT
 * [【登壇資料】運用担当者にやさしいサービス設計について話してきました #cm_osaka ｜ Developers.IO](http://dev.classmethod.jp/cloud/cm-osaka-operation-for-operator/)
-* [サーバーレス – サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/category/techical/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%82%b9/)
+* [サーバーレス - サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/category/techical/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%82%b9/)
 
 * [Lambda + Apex 事例紹介 ~ 全ては AWS コスト削減のために ~ - kakakakakku blog](http://kakakakakku.hatenablog.com/entry/2017/03/11/001233)
 * [CloudWatch Events + Lambda + CircleCI + Apex で Lambda をサーバレスに実行 & デプロイする - kakakakakku blog](http://kakakakakku.hatenablog.com/entry/2017/02/17/225710)
@@ -59,7 +59,7 @@ AWS LambdからRDSへ接続するチュートリアル。
 
 * [S3をトリガーとするLambdaの冪等性をDynamoDBで実現してみた ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/lambda-dynamodb/)
 
-* [サーバーレス – サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/category/techical/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%82%b9/)
+* [サーバーレス - サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/category/techical/%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%82%b9/)
 
 ## IAM
 
