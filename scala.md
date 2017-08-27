@@ -83,6 +83,11 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [Scala初心者が、Play FrameworkとMySQLで、CRUDでRESTfulなJSON APIを作ってみた（その１） | Recruit Jobs TECHBLOG](https://techblog.recruitjobs.net/development/crud-restful-json-api_on_play-framework_and_mysql_1)
 * [Play Frameworkのかゆいところをかいてみた(メッセージリソースの分割と複数チェックボックス) | ヌーラボ](https://nulab-inc.com/ja/blog/typetalk/subtle-hack-play-framework/)
 
+* [ScalaでPlayFramework: 環境構築編 - Qiita](http://qiita.com/Yaruki00/items/f9770edea44c1fed6f78)
+* [ScalaでPlayFramework: コントローラ編 - Qiita](http://qiita.com/Yaruki00/items/1a2aaba4109f6f43f8ed)
+* [ScalaでPlayFramework: ビュー編 - Qiita](http://qiita.com/Yaruki00/items/1ff93cd2df9a008c2413)
+* [ScalaでPlayFramework: モデル編 - Qiita](http://qiita.com/Yaruki00/items/ad61f1977571c399fdcd)
+
 ## Web API with Play Framework
 
 * [Javaの常識を変えるPlay framework入門（5）：Playで体得するRESTfulアーキテクチャの基礎知識 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1306/20/news014.html)
