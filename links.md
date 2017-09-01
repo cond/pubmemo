@@ -21,6 +21,13 @@
 
 * [React.js + CSS - Qiita](http://qiita.com/koba04/items/0e81a04262e1158dbbe4)
 
+# Javascript
+
+* [Canvasのお絵かきに bacon.js を使ってみた | The Wacul Blog](http://blog.wacul.co.jp/blog/2014/04/30/bacon-js/)
+* [Bacon.js でcanvasにお絵かき (マルチタッチ対応) - tutuming's sandbox](http://tutuming.tumblr.com/post/45587283640/baconjs-%E3%81%A7canvas%E3%81%AB%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D-%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C)
+* [おいしくたべようBacon.js - @yoshiko_pg](http://yoshiko-pg.github.io/slides/20150728-gp-frontend/)
+* [canvasでのお絵かきソフトの作り方と実例 | パソニュー](https://pasonyu.com/how-to-make-drawing-software-with-canvas/)
+* [canvas を使ってお絵かきツールを作る方法と仕組み | q-Az](https://q-az.net/canvas-drawing-pad/)
 
 # Jekyll
 
