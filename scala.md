@@ -71,6 +71,14 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [PlayFrameworkでチャットアプリ - Qiita](http://qiita.com/hys-rabbit/items/32967e8a76b2c894ead1)
 * [Play Frameworkハンズオン - Qiita](http://qiita.com/yuichi0301/items/ead86d0251b954f07935)
 
+## Play tutorial
+
+* [Play Frameworkハンズオン - Qiita](http://qiita.com/yuichi0301/items/ead86d0251b954f07935) [環境構築 - Qiita](http://qiita.com/yuichi0301/items/4785e3fe490736d4ee50) DBはh2, anorm
+* [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235) DBはSlick
+* [Scala * PlayでWebアプリ制作 ~バージョンの罠にはまる~ - AdwaysEngineersBlog - Adwaysエンジニアブログ](http://blog.engineer.adways.net/entry/2017/02/03/160000)
+* [Play 2.3.xから2.4.x、Slick 2.xから3.1.xへの移行 - Qiita](http://qiita.com/yohei1126@github/items/d60c6e498bc57c07b880) チュートリアではないけど参考に
+* [Play2.3.xから2.4への移行ではまったところ - Qiita](http://qiita.com/shunjikonishi/items/099ee091769900916c64)
+
 ## Play 2.5
 
 * [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235)
