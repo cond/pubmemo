@@ -17,6 +17,7 @@
 * [Hatena-Textbook/database-programming-scala.md at master ・ hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-scala.md)
 * [Hatena-Textbook/web-application-development-scala.md at master ・ hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md)
 * [Scala Style Guide リーディングメモ - seratch's weblog in Japanese](http://seratch.hatenablog.jp/entry/20120128/1327762079)
+* [bizreach/slick-reference: Slickにチートシート](https://github.com/bizreach/slick-reference)
 
 ## Scala misc
 
@@ -29,6 +30,8 @@
 * [Scala Matsuri 2017](https://www.slideshare.net/yoshiyoshifujii/scala-matsuri-2017)
 
 * [RestyというScala用のREST APIフレームワークを作ってみました - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2016/11/28/095454)
+
+* [「実戦での Scala 〜 6つの事例から知る Scala の勘所〜」を開催しました！ | ヌーラボ](https://nulab-inc.com/ja/blog/nulab/jissenscala/)
 
 ## Akka
 
@@ -70,6 +73,9 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [PlayFrameworkでTODOアプリ - Qiita](http://qiita.com/hys-rabbit/items/0759201c8b584c958235)
 * [PlayFrameworkでチャットアプリ - Qiita](http://qiita.com/hys-rabbit/items/32967e8a76b2c894ead1)
 * [Play Frameworkハンズオン - Qiita](http://qiita.com/yuichi0301/items/ead86d0251b954f07935)
+
+* [こわくないよ❤️ Playframeworkソースコードリーディング入門](https://www.slideshare.net/tanacasino/playframework-69903913)
+* [ビズリーチの新サービスをScalaで作ってみた - マイクロサービスの裏側 jissenscala](https://www.slideshare.net/takezoe/scala-jissenscala-44962449)
 
 ## Play tutorial
 
