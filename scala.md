@@ -2,8 +2,10 @@
 
 ## Scala Essentials
 
-* [Scalaの記号みたいな奴らなんなの - Qiita](http://qiita.com/harry0000/items/113b5ddbe64a2835a6e2)
 * [Scala の省略ルール早覚え](https://gist.github.com/gakuzzzz/10104162)
+* [Scalaでアンダースコアの意味が分からなかったらここを見る - Qiita](http://qiita.com/edvakf@github/items/0caeb282db18a1e65823)
+* [scala-hackathon/function.rst at master ・ yuroyoro/scala-hackathon](https://github.com/yuroyoro/scala-hackathon/blob/master/doc/source/basic/function.rst)
+* [Scalaの記号みたいな奴らなんなの - Qiita](http://qiita.com/harry0000/items/113b5ddbe64a2835a6e2)
 * [Scalaクラスメモ(Hishidama's Scala class Memo)](http://www.ne.jp/asahi/hishidama/home/tech/scala/class.html)
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ja.html)
 * [Scalaのクラスについて - Qiita](http://qiita.com/544/items/774e9a0bfed5507fad14)
