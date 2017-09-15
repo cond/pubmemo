@@ -120,3 +120,10 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [PlayFrameworkでチャットアプリ - Qiita](http://qiita.com/hys-rabbit/items/32967e8a76b2c894ead1#_reference-dfb445df90c3346c8591)
 
 * [WebSocket の動作確認に wscat が便利すぎる件 - tricknotesのぼうけんのしょ](http://tricknotes.hateblo.jp/entry/20120227/p1): WebSocketのデバッグにはwscatを使う
+
+## Slick
+
+* [slick-doc-ja 3.0 — 導入](http://krrrr38.github.io/slick-doc-ja/v3.0.out/%E5%B0%8E%E5%85%A5.html) Slick 3.0公式マニュアル(日本語訳)
+* [Scalaのslick3.1を使ったメモ](http://www.mwsoft.jp/programming/scala/slick3_1.html)
+* [Slick 3.1.0でのCodeGenerator(joda-timeサポート付き) - まがりの日記](http://oomatomo.hatenablog.com/entry/slick-2-3-code-generator)
+* [slick-codegenを使ってテーブルコードを自動生成する。そしてPostgresqlへCRUDする ｜ Developers.IO](http://dev.classmethod.jp/server-side/tablecode-by-slick-codegen/)
