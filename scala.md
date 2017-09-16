@@ -51,6 +51,11 @@ O'Reillyから"Effective Akka"という本が出ている。
 * [Play2を使うならAkkaも使っちゃおうぜな話 - Opt Technologies Magazine](http://tech-magazine.opt.ne.jp/entry/2016/04/07/100833)
 * [Akka 基本的な使い方 (Scala) - Qoosky](https://www.qoosky.io/techs/e0f555bc87)
 
+### Akka Stream
+
+* [akka-streamのマイクロサービスへの適用](https://www.slideshare.net/NyleInc/akkastream-70118318) ウェブスクレーピングのサンプルプログラムがある
+
+
 ## Play Framework2
 
 Web+DB Press 71号に「速習 Play framework 2」という特集がある。
@@ -127,3 +132,11 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [Scalaのslick3.1を使ったメモ](http://www.mwsoft.jp/programming/scala/slick3_1.html)
 * [Slick 3.1.0でのCodeGenerator(joda-timeサポート付き) - まがりの日記](http://oomatomo.hatenablog.com/entry/slick-2-3-code-generator)
 * [slick-codegenを使ってテーブルコードを自動生成する。そしてPostgresqlへCRUDする ｜ Developers.IO](http://dev.classmethod.jp/server-side/tablecode-by-slick-codegen/)
+
+## Splay
+
+* [Sprayの簡単な紹介 - アドファイブ日記](http://d.hatena.ne.jp/isobe1978/20131210/1386687560)
+* [spray | REST/HTTP for your Akka/Scala Actors](http://spray.io/) SplayはAkka HTTPに移行したとのこと。
+
+* [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala/http/?_ga=2.3701296.1815408885.1505603844-693903914.1505603844)
+* [Akka HTTP サンプルコード (Scala) - Qoosky](https://www.qoosky.io/techs/a98142497c)
