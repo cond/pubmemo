@@ -140,3 +140,8 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 
 * [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala/http/?_ga=2.3701296.1815408885.1505603844-693903914.1505603844)
 * [Akka HTTP サンプルコード (Scala) - Qoosky](https://www.qoosky.io/techs/a98142497c)
+
+## To read
+
+* [Let's build a serverless architecture in Scala](https://www.slideshare.net/yoshiyoshifujii/scala-matsuri-2017) AWS LambdaでScalaを使う話
+* [sbtとpecoでテンプレートを選択してプロジェクトを作成する - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2017/08/19/164355)
