@@ -11,6 +11,7 @@
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ja.html)
 * [Scalaのクラスについて - Qiita](http://qiita.com/544/items/774e9a0bfed5507fad14)
 * [Scala言語を急ぎ足で学ぶ(勉強メモ 1/2) - 技術memo](http://nenono.hatenablog.com/entry/2015/03/17/165036)
+* [Scalaにおける細かい最適化のプラクティス - xuwei-k's blog](http://xuwei-k.hatenablog.com/entry/20130709/1373330529)
 
 ### Textbooks
 
