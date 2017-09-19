@@ -11,3 +11,4 @@
 * [色んなScalaを調べてみた](https://www.slideshare.net/JiroHiraiwa/scala-52045944?qid=4e4cc064-f7a8-42b7-b0ed-32d77b0f7a27&v=&b=&from_search=2)
 * [統計をとって高速化する Scala開発](https://www.slideshare.net/mitsukioga/scala-38854156?qid=4e4cc064-f7a8-42b7-b0ed-32d77b0f7a27&v=&b=&from_search=8)
 * [Akka と Typeの話](https://www.slideshare.net/dxhuy88/akka-type?next_slideshow=1)
+* [React + Playの認証/認可方法を調べてみた - Qiita](http://qiita.com/ytanak/items/4d75c5012b20a9d55822)
