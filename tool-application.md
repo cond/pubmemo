@@ -7,6 +7,7 @@
 * [モック用のJSONやCSVなどのデータを大量にかつ簡単に作成できるMockarooを試してみた - とんちむ日記](http://tonchix.hatenablog.com/entry/2017/05/09/211853)
 * [Grafanaでかっけぇダッシュボード作るよ！(構築・設定編) - サーバーワークスエンジニアブログ](http://blog.serverworks.co.jp/tech/2016/03/11/play-with-grafana-1/)
 * [こっそり始めるGit／GitHub超入門（12）：開発者のスケジュール管理に超便利、GitHub Issues、Label、Milestone、Projects使いこなし術 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1704/28/news032.html)
+* [ストレスフリーなGitHubのIssue生活 - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2017/03/14/100000)
 
 ## Platform
 
