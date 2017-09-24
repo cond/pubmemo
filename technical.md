@@ -20,3 +20,9 @@
 
 * [Film recommendation engine | Kaggle](https://www.kaggle.com/fabiendaniel/film-recommendation-engine/notebook) Recommend engineを作るチュートリアル
 * [NN Playgroundに出てくる「渦巻きサンプルの二値分類」を学習器を変えながら試してみる - 六本木で働くデータサイエンティストのブログ](http://tjo.hatenablog.com/entry/2017/08/26/172354)
+
+## Big Data
+
+* [Pythonで大量データ処理！PySparkを用いたデータ処理と分析のきほん // Speaker Deck](https://speakerdeck.com/chie8842/pythondeda-liang-detachu-li-pysparkwoyong-itadetachu-li-tofen-xi-falsekihon)
+* [pandasでのOSS活動事例と最初の一歩 // Speaker Deck](https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu)
+* [20160127三木会 RDB経験者のためのspark](https://www.slideshare.net/dragan10/20160127-rdbspark)
