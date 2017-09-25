@@ -18,3 +18,11 @@
 * [Contributing to Scala OSS from East Asia #ScalaMatsuri](https://www.slideshare.net/seratch/contributing-to-scala-oss-from-east-asia-scalamatsuri)
 * [Scala Refactoring for Fun and Profit (Japanese subtitles)](https://www.slideshare.net/holograph/scala-refactoring-for-fun-and-profit-japanese-subtitles)
 * [How Scala code is expressed in the JVM](https://www.slideshare.net/jyukutyo/how-scala-code-is-expressed-in-the-jvm)
+* [3Dプリンタで作る階差機関 / Build Difference Engine by 3D Printer // Speaker Deck](https://speakerdeck.com/mackee/build-difference-engine-by-3d-printer)
+
+## JavaScript
+
+* [.mjs とは何か、またはモジュールベース JS とエコシステムの今後 | blog.jxck.io](https://blog.jxck.io/entries/2017-08-15/universal-mjs-ecosystem.amp.html)
+* [React + RxJSで始める状態管理 - VOYAGE GROUP techlog](http://techlog.voyagegroup.com/entry/2017/08/31/102915)
+* [Learn React & Redux - Front-end Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/learning/react-redux.html)
+* [Repositoryの後ろにネットワーク越しのシステムがあることの是非からRedux的世界へ - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](http://nekogata.hatenablog.com/entry/2017/09/14/104600)
