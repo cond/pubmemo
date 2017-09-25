@@ -19,6 +19,12 @@
 * [Scala Refactoring for Fun and Profit (Japanese subtitles)](https://www.slideshare.net/holograph/scala-refactoring-for-fun-and-profit-japanese-subtitles)
 * [How Scala code is expressed in the JVM](https://www.slideshare.net/jyukutyo/how-scala-code-is-expressed-in-the-jvm)
 * [3Dプリンタで作る階差機関 / Build Difference Engine by 3D Printer // Speaker Deck](https://speakerdeck.com/mackee/build-difference-engine-by-3d-printer)
+* [あなたのScalaを爆速にする７つの方法(日本語版)](https://www.slideshare.net/x1ichi/scala-57670004)
+
+* [バッチではじめてAkkaを使ってみた (refined)](https://www.slideshare.net/KojiAgawa/akka-meeting-2014-1112-refined?qid=a901889c-9ec7-4170-b697-cc7580d5e03c&v=&b=&from_search=31)
+* [バッチを Akka Streams で再実装したら100倍速くなった話 #ScalaMatsuri](https://www.slideshare.net/kazukinegoro5/akka-streams-100-scalamatsuri)
+
+* [Akka HTTP サンプルコード (Scala) - Qoosky](https://www.qoosky.io/techs/a98142497c)
 
 ## JavaScript
 
