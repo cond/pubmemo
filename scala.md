@@ -5,6 +5,7 @@
 * [Scala の省略ルール早覚え](https://gist.github.com/gakuzzzz/10104162)
 * [Scalaでアンダースコアの意味が分からなかったらここを見る - Qiita](http://qiita.com/edvakf@github/items/0caeb282db18a1e65823)
 * [scala - Scalaにおいて引数にアンダースコアを使用したときの挙動 - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/8120/scala%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E5%BC%95%E6%95%B0%E3%81%AB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E6%8C%99%E5%8B%95)
+* [Scalaの=>記号の意味が多すぎるのでまとめた - Qiita](http://qiita.com/mizunowanko/items/e699f45ef918476ad81e)
 * [scala-hackathon/function.rst at master ・ yuroyoro/scala-hackathon](https://github.com/yuroyoro/scala-hackathon/blob/master/doc/source/basic/function.rst)
 * [Scalaの記号みたいな奴らなんなの - Qiita](http://qiita.com/harry0000/items/113b5ddbe64a2835a6e2)
 * [Scalaクラスメモ(Hishidama's Scala class Memo)](http://www.ne.jp/asahi/hishidama/home/tech/scala/class.html)
@@ -12,6 +13,15 @@
 * [Scalaのクラスについて - Qiita](http://qiita.com/544/items/774e9a0bfed5507fad14)
 * [Scala言語を急ぎ足で学ぶ(勉強メモ 1/2) - 技術memo](http://nenono.hatenablog.com/entry/2015/03/17/165036)
 * [Scalaにおける細かい最適化のプラクティス - xuwei-k's blog](http://xuwei-k.hatenablog.com/entry/20130709/1373330529)
+* [Scalacheat | Scala Documentation](https://docs.scala-lang.org/ja/cheatsheets/index.html) Scalaのチートシート
+* [Scalaの関数の引数がよくわからなかった奴 "=>" - opamp_sando's blog](http://opamp.hatenablog.jp/entry/2013/08/02/190116)
+* [scalaのFunctionについて説明してみるよ - xuwei-k's blog](http://xuwei-k.hatenablog.com/entry/20110801/1312229327)
+* [【Scala】flatMap は怖くない！ ｜ Developers.IO](http://dev.classmethod.jp/server-side/scala-learn-flatmap/)
+* [《Scala》Future[Unit]は気をつけて使おうの話 - Septeni Engineer's Blog](http://labs.septeni.co.jp/entry/2017/02/16/113949)
+* [scala.concurrent.Future の実装を追ってみる - Septeni Engineer's Blog](http://labs.septeni.co.jp/entry/2016/01/03/133753)
+* [scala の Future の内部実装を追う - Qiita](http://qiita.com/sugiyasu-qr/items/391b2f0523c9974b011d)
+* [ExecutionContextとblockingについて調べたメモ [scala] - だいたいよくわからないブログ](http://matsu-chara.hatenablog.com/entry/2016/03/12/110000)
+* [Future と Promise | Scala Documentation](https://docs.scala-lang.org/ja/overviews/core/futures.html)
 
 ### Textbooks
 
