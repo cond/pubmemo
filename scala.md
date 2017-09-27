@@ -143,6 +143,7 @@ Web+DB Press 71号に「速習 Play framework 2」という特集がある。
 * [Scalaのslick3.1を使ったメモ](http://www.mwsoft.jp/programming/scala/slick3_1.html)
 * [Slick 3.1.0でのCodeGenerator(joda-timeサポート付き) - まがりの日記](http://oomatomo.hatenablog.com/entry/slick-2-3-code-generator)
 * [slick-codegenを使ってテーブルコードを自動生成する。そしてPostgresqlへCRUDする ｜ Developers.IO](http://dev.classmethod.jp/server-side/tablecode-by-slick-codegen/)
+* [Slick入門](https://www.slideshare.net/chibochibo/slick-35429306)
 
 ## Splay
 

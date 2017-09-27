@@ -127,3 +127,6 @@ NulabでのAuroraへの移行。
 * [【登壇資料】AWSを使うサーバーサイドレシピ - ElastiCache, Amazon ECS, WAF + Lambda #gbfukuoka ｜ Developers.IO](http://dev.classmethod.jp/server-side/aws-serverside-recipe/)
 * [PHPアプリケーションのセッション管理にAWS ElastiCacheを使う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/php-session-elasticache/)
 
+## DevOps
+
+* [Terraform と CI で実現するインフラのコード化と構築の自動化 - Qiita](https://qiita.com/dtan4/items/ab1671d657f1571e59d8)
