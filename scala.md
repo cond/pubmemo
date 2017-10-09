@@ -32,6 +32,7 @@
 * [Hatena-Textbook/web-application-development-scala.md at master ・ hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md)
 * [Scala Style Guide リーディングメモ - seratch's weblog in Japanese](http://seratch.hatenablog.jp/entry/20120128/1327762079)
 * [bizreach/slick-reference: Slickにチートシート](https://github.com/bizreach/slick-reference)
+* [Future と Promise | Scala Documentation](https://docs.scala-lang.org/ja/overviews/core/futures.html)
 
 ## Scala misc
 
