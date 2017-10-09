@@ -1,5 +1,11 @@
 # Scala
 
+## Studying
+
+* [Futureをマスターする -はじめに- - Qiita](https://qiita.com/mtoyoshi/items/08766629abea6eb8e4bc)
+* [Future と Promise | Scala Documentation](https://docs.scala-lang.org/ja/overviews/core/futures.html)
+* [【チュートリアル形式】サーバーサイド初心者が Play Framework 2.4 + Scala + Silhouette で認証認可・アカウント登録・メール認証を実装して Web サービス開発入門 - Qiita](https://qiita.com/Biacco/items/fc3df839aeafb00ada1c)
+
 ## Scala Essentials
 
 * [Scala の省略ルール早覚え](https://gist.github.com/gakuzzzz/10104162)
