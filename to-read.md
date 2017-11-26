@@ -1,5 +1,6 @@
 # To read
 
+* [新しいプログラミング言語の学び方 HTTPサーバーを作って学ぶ Java, Scala, Clojure // Speaker Deck](https://speakerdeck.com/todokr/xin-siihurokuraminkuyan-yu-falsexue-hifang-httpsahawozuo-tutexue-hu-java-scala-clojure)
 * [Reactive database access with Slick3](https://www.slideshare.net/takezoe/reactive-database-access-with-slick3)
 * [こわくないよ❤️ Playframeworkソースコードリーディング入門](https://www.slideshare.net/tanacasino/playframework-69903913)
 * [実戦Scala](https://www.slideshare.net/yutosuzu/scala-44957324)
