@@ -26,6 +26,7 @@
 
 ## Lambda
 
+* [AWS SAM Local と LocalStack を使って ローカルでAWS Lambdaのコードを動かす ｜ Developers.IO](https://dev.classmethod.jp/etc/sam-local-with-localstack/)
 * [AWS LambdaのIAMポリシーとリソースポリシーを理解しよう ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/policies-for-lambda/)
 * [初めてのLambda ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/sugano-002-lambda/)
 
