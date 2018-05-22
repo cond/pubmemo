@@ -13,3 +13,4 @@ cond's public memo
 * [Technical](technical.md)
 * [Startup stories](startup.md)
 * [Front End](frontend.md)
+* [Python](python.md)
