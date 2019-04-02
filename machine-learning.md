@@ -6,3 +6,10 @@
 * [MobileNetV2のお勉強 - 空飛ぶロボットのつくりかた](http://robonchu.hatenablog.com/entry/2018/11/24/123035)
 * [Idein Ideas](https://blog.idein.jp/)
 * [DNNコンパイラの歩みと最近の動向 〜TVMを中心に〜](https://www.slideshare.net/bonotake/dnn-tvm?next_slideshow=1)
+* [深層学習を実運用システムに組み込むということ / To incorporate deep learning into actual operation system - Speaker Deck](https://speakerdeck.com/ysdyt/to-incorporate-deep-learning-into-actual-operation-system)
+
+
+## MLのチュートリアル
+
+* [機械学習入門 - 基本のPythonライブラリ、9つを触って学ぶ - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2018/11/09/110000)
+
