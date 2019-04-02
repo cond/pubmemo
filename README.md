@@ -3,9 +3,8 @@ cond's public memo
 
 * [機械学習](machine-learning.md)
 * [読み物/いろいろ](reading.md)
-
+* [FPGA](fpga.md)
 * [My links](links.md)
-
 * [AWS](aws.md)
 * [Scala](scala.md)
 * [React](react.md)
