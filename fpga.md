@@ -26,6 +26,13 @@ FPGA開発日記: 興味ぶかい
 
 * [FPGAにおける計算科学アプリケーションの部分オフローディング](http://www.xcalablemp.org/download/workshop/4th/fujita.pdf)
 
+## Verilog
+
+* [HDLによるFPGA設計](http://zakii.la.coocan.jp/hdl/0_contents.htm) Tipが集められている
+* [Verilog-HDL Simulation環境](http://altmo.html.xdomain.jp/src_00/2015_0100/00.html)
+
+
+
 ## CPU design
 
 * [darklife/darkriscv: opensouce RISC-V implemented from scratch in one night!](https://github.com/darklife/darkriscv)
@@ -33,9 +40,11 @@ FPGA開発日記: 興味ぶかい
 * [Xilinx FPGA向けCortex-M1を合成してみた | わさらぼ](http://wasa-labo.com/wp/?p=460)
 * [FPGAでCortex-M1を味見する](https://www.slideshare.net/morilabo/fpgacortexm1)
 * [Arm DesignStart Cortex-M1を試す(1. リファレンスデザインを試す) - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2018/10/11/040000)
+* [プロセッサにおけるアウトオブオーダの考え方について(リネームレジスタの例外時の処理について) - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2016/04/24/030607)
 * [シストリックアレイな行列演算器 | わさらぼ](http://wasa-labo.com/wp/?p=401)
 * [ゼロから始める自作 CPU 入門](https://www.slideshare.net/hktechno/cpu-2015)
 * [FPGAを用いた高性能計算の可能性とデータフロープログラミング](https://www.pccluster.org/ja/event/2017/12/pcccSymp17_sano.pdf)
+
 
 ## FPGA/ML
 
