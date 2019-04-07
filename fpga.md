@@ -18,6 +18,9 @@ FPGA開発日記: 興味ぶかい
 * [Vivado-HLSで書いた回路とプログラムで速度比較(1) - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2016/10/04/020000)
 * [行列積演算のHLS設計高速化検討(1. サイクル数計測方法の構築) - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2016/09/12/020346)
 * [Vivado-HLSを使って高位合成でCPUを作ってみる(1. メモリのRead/Writeのモデルを作成) - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2019/02/13/040000) このシリーズは面白そう
+* [乗算・除算器 : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27418544/) v-scaleというV-RISC実装をいじるシリーズ。参考になる
+* [kozos on V-scale chip on ARTY : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27321632/)
+* [Inspiron11 購入 ＆ FPGA 環境セットアップ : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27371838/) VivadoをBash on Windows環境にインストールする話。
 
 ぱたへね!: ここのところMLづいている。いろいろと面白い記事がある。
 * [PythonとKerasによるディープラーニング - ぱたへね！](http://natsutan.hatenablog.com/entry/2019/01/05/225800)
