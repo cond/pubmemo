@@ -5,6 +5,7 @@
 * [Vivado Design Suite](https://japan.xilinx.com/products/design-tools/vivado.html?resultsTablePreSelect=documenttype:User%20Guides#documentation) Xilnx公式ドキュメント集
 * [Getting the PmodOLEDrgb to Work on Zybo: 10 Steps](https://www.instructables.com/id/Getting-the-PmodGPS-to-Work-on-Zybo/?_ga=2.25723837.1221445310.1551239693-1015329430.1550465694)
 * [Vivado で AXI の IP を作ってみる : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27919922/)
+* [FPGAリテラシーおよびチュートリアル](http://marsee101.web.fc2.com/fpga_literacy_tutorial.html)
 
 * [FPGAの高位合成環境まとめ | Advanced Technology Lab](http://atl.recruit-tech.co.jp/blog/3844/)
 * [論理回路の高位合成について - Qiita](https://qiita.com/nekoaddict/items/cddde13a1322e94f44b8)  いろんな処理系の紹介
@@ -28,13 +29,12 @@ FPGA開発日記: 興味ぶかい
 * [Vivado VIPを使ってAXIマスターを動かしてみる。その1 - ぱたへね！](http://natsutan.hatenablog.com/entry/20171225/1514216998)
 
 * [FPGAにおける計算科学アプリケーションの部分オフローディング](http://www.xcalablemp.org/download/workshop/4th/fujita.pdf)
+* [AvnetのUltra96を買ってみた - ハードウェアの気になるあれこれ](https://www.tech-diningyo.info/entry/2018/12/24/154145)
 
 ## Verilog
 
 * [HDLによるFPGA設計](http://zakii.la.coocan.jp/hdl/0_contents.htm) Tipが集められている
 * [Verilog-HDL Simulation環境](http://altmo.html.xdomain.jp/src_00/2015_0100/00.html)
-
-
 
 ## CPU design
 
@@ -47,7 +47,15 @@ FPGA開発日記: 興味ぶかい
 * [シストリックアレイな行列演算器 | わさらぼ](http://wasa-labo.com/wp/?p=401)
 * [ゼロから始める自作 CPU 入門](https://www.slideshare.net/hktechno/cpu-2015)
 * [FPGAを用いた高性能計算の可能性とデータフロープログラミング](https://www.pccluster.org/ja/event/2017/12/pcccSymp17_sano.pdf)
+* [Arty+VivadoでMicroBlazeとRISC-Vを動かしてみた – 楽しくやろう。](https://blog.boochow.com/article/arty-risc-v.html)
 
+* [RISC-V ISAの基本構造](https://notes.muo.jp/1707_riscv-arch.html)
+* [RISC-V Foundationを中心とするアーキテクチャ管理体制](https://notes.muo.jp/1707_riscv-foundation.html)
+
+FPGA開発日記のブログは、とても勉強になる。いろいろなCPU関連の技術・実装について調べている。
+* [APSで連載しているRISC-V入門全8回がすべて公開されました - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2018/10/17/040000) 
+* [2018年のRISC-V関係の(私の)講演資料をすべて公開しました - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2018/11/15/040000)
+* [ますます注目されるオープンCPUアーキテクチャRISC-Vの最新動向 - Speaker Deck](https://speakerdeck.com/msyksphinz/masumasuzhu-mu-sareruopuncpuakitekutiyarisc-vfalsezui-xin-dong-xiang) さまざまなRISC-Vの実装を紹介。必読
 
 ## FPGA/ML
 

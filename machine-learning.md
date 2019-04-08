@@ -13,11 +13,20 @@ Brain Pad社のスライド:
 * [機械学習システムを受託開発 する時に気をつけておきたい事](https://www.slideshare.net/BrainPad/20181115-125027419)
 * [機械学習システム開発案件の事例紹介](https://www.slideshare.net/BrainPad/ss-125027959)
 
+## AI
+
+* [役に立ちインパクトのある実世界AIを](http://ibisml.org/ibis2018/files/2018/11/kanade.pdf)
+
 ## TensorFlow
 
 * [Google Developers Japan: BodyPix の概要: ブラウザと TensorFlow.js によるリアルタイム人セグメンテーション](https://developers-jp.googleblog.com/2019/04/bodypix-tensorflowjs.html?linkId=65622464)
+
 
 ## MLのチュートリアル
 
 * [機械学習入門 - 基本のPythonライブラリ、9つを触って学ぶ - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2018/11/09/110000)
 * [研究者のための Python による FPGA 入門](https://www.slideshare.net/ryos36/python-fpga-74774921)
+* [無料で拾える機械学習系の本のPDFまとめ - とある京大生の作業ログと日々の雑記](http://komi1230.hatenablog.com/entry/2019/03/14/154236)
+
+## Python
+

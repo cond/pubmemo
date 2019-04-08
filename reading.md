@@ -15,6 +15,7 @@
 * [アングル：ＥＶの「身分証明」、人工走行音開発で各社が火花 | ロイター](https://jp.reuters.com/article/ev-sounds-idJPKCN1QN0KQ?utm_campaign=trueAnthem:+Trending+Content&utm_content=5c834e3700bd47000112c9b8&utm_medium=trueAnthem&utm_source=twitter)
 * [米アマゾンに卸すサプライヤーがパニック、発注が突如停止 - Bloomberg](https://www.bloomberg.co.jp/news/articles/2019-03-08/PO11A96TTDS301)
 * [Shopify はいかに、パートナーエコシステムを構築したか？ ： 8億ドル規模のパートナー収益 | DIGIDAY［日本版］](https://digiday.jp/platforms/shopify-partner-ecosystem-800-million/)
+* [Firebaseで完結するリッチなWebアプリ構築の勘所 - Qiita](https://qiita.com//y_kawase/items/1de690b40553ef76acb3)
 
 
 ## 特集など
