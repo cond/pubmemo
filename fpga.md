@@ -6,6 +6,7 @@
 * [Getting the PmodOLEDrgb to Work on Zybo: 10 Steps](https://www.instructables.com/id/Getting-the-PmodGPS-to-Work-on-Zybo/?_ga=2.25723837.1221445310.1551239693-1015329430.1550465694)
 * [Vivado で AXI の IP を作ってみる : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27919922/)
 * [FPGAリテラシーおよびチュートリアル](http://marsee101.web.fc2.com/fpga_literacy_tutorial.html)
+* [FPGA(Zynq) 評価基板を使う(Zybo Z7編) - Qiita](https://qiita.com/ryos36/items/16816e19f2b8b1dbca31)
 
 * [FPGAの高位合成環境まとめ | Advanced Technology Lab](http://atl.recruit-tech.co.jp/blog/3844/)
 * [論理回路の高位合成について - Qiita](https://qiita.com/nekoaddict/items/cddde13a1322e94f44b8)  いろんな処理系の紹介
