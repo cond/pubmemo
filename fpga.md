@@ -1,8 +1,15 @@
 # FPGA
 
-## ZYBO/FPGA関連のリンク集
+## Zynq
 
 * [Vivado Design Suite](https://japan.xilinx.com/products/design-tools/vivado.html?resultsTablePreSelect=documenttype:User%20Guides#documentation) Xilnx公式ドキュメント集
+* [Zynq-7000 SoC - 性能およびアクセラレーション](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0054-zynq-7000-performance-and-benchmarks-hub.html)
+* [Zynq およびコプロセッサを使用したシステム パフォーマンスの向上 (日本語吹替)](https://japan.xilinx.com/video/soc/accelerating-system-performance-zynq.html) Zynq内蔵のCortex-A9にACP経由でコプロセッサを付ける
+* [Zynq + Vivado HLS入門](https://www.slideshare.net/narusugimoto/zynq-vivado-hls)
+* [ソフト屋がXilinx zynq-7000をさわってみた ～体験記～](http://openit.kek.jp/workshop/2016/nifs/presentation/sendai-zynq.pdf)
+
+## ZYBO/FPGA関連のリンク集
+
 * [Getting the PmodOLEDrgb to Work on Zybo: 10 Steps](https://www.instructables.com/id/Getting-the-PmodGPS-to-Work-on-Zybo/?_ga=2.25723837.1221445310.1551239693-1015329430.1550465694)
 * [Vivado で AXI の IP を作ってみる : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27919922/)
 * [FPGAリテラシーおよびチュートリアル](http://marsee101.web.fc2.com/fpga_literacy_tutorial.html)
