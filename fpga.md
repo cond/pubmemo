@@ -7,6 +7,8 @@
 * [Zynq およびコプロセッサを使用したシステム パフォーマンスの向上 (日本語吹替)](https://japan.xilinx.com/video/soc/accelerating-system-performance-zynq.html) Zynq内蔵のCortex-A9にACP経由でコプロセッサを付ける
 * [Zynq + Vivado HLS入門](https://www.slideshare.net/narusugimoto/zynq-vivado-hls)
 * [ソフト屋がXilinx zynq-7000をさわってみた ～体験記～](http://openit.kek.jp/workshop/2016/nifs/presentation/sendai-zynq.pdf)
+* [Vivado HLS で設計する浮動小数点行列乗算の Zynq アクセラレータ](https://japan.xilinx.com/support/documentation/application_notes/j_xapp1170-zynq-hls.pdf) チュートリアル
+
 
 ## ZYBO/FPGA関連のリンク集
 
@@ -64,6 +66,8 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 * [APSで連載しているRISC-V入門全8回がすべて公開されました - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2018/10/17/040000) 
 * [2018年のRISC-V関係の(私の)講演資料をすべて公開しました - FPGA開発日記](http://msyksphinz.hatenablog.com/entry/2018/11/15/040000)
 * [ますます注目されるオープンCPUアーキテクチャRISC-Vの最新動向 - Speaker Deck](https://speakerdeck.com/msyksphinz/masumasuzhu-mu-sareruopuncpuakitekutiyarisc-vfalsezui-xin-dong-xiang) さまざまなRISC-Vの実装を紹介。必読
+
+* [f32c/f32c: A 32-bit RISC-V / MIPS ISA retargetable CPU core & SoC, 1.63 DMIPS/MHz](https://github.com/f32c/f32c)  A 32-bit RISC-V / MIPS ISA retargetable CPU core & SoC, 1.63 DMIPS/MHz
 
 ## FPGA/ML
 
