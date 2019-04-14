@@ -27,6 +27,12 @@ Brain Pad社のスライド:
 * [機械学習入門 - 基本のPythonライブラリ、9つを触って学ぶ - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2018/11/09/110000)
 * [研究者のための Python による FPGA 入門](https://www.slideshare.net/ryos36/python-fpga-74774921)
 * [無料で拾える機械学習系の本のPDFまとめ - とある京大生の作業ログと日々の雑記](http://komi1230.hatenablog.com/entry/2019/03/14/154236)
+* [Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～ - Qiita](https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0)
+* [画像処理100本ノックを作ったった - Qiita](https://qiita.com/yoyoyo_/items/2ef53f47f87dcf5d1e14)
+* [yoyoyo-yo/Gasyori100knock: 画像処理100本ノックして画像処理を画像処理して画像処理するためのもの For Japanese, English and Chinese](https://github.com/yoyoyo-yo/Gasyori100knock)
+* [ディープラーニング∞本ノック作ったった - Qiita](https://qiita.com/yoyoyo_/items/cd5b859341106c3b52f9)
+* [yoyoyo-yo/DeepLearningMugenKnock: でぃーぷらーにんぐを無限にやってディープラーニングでディープラニングするためのもの](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
 
 ## Python
 
+* [pythonでのデータ分析時、死ぬほど調べるTipsをまとめておく。 - プロクラシスト](https://www.procrasist.com/entry/python-tips)

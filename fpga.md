@@ -8,6 +8,8 @@
 * [Zynq + Vivado HLS入門](https://www.slideshare.net/narusugimoto/zynq-vivado-hls)
 * [ソフト屋がXilinx zynq-7000をさわってみた ～体験記～](http://openit.kek.jp/workshop/2016/nifs/presentation/sendai-zynq.pdf)
 * [Vivado HLS で設計する浮動小数点行列乗算の Zynq アクセラレータ](https://japan.xilinx.com/support/documentation/application_notes/j_xapp1170-zynq-hls.pdf) チュートリアル
+* [FPGAでの割り算は怖くない: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2013/01/fpga-64ef.html) Core Generatorで除算回路を生成する話
+* [Training to use Zynq on ZYBO](http://www.ritsumei.ac.jp/se/re/izumilab/dist/axi2axis/) 立命館大学の演習ページ
 
 
 ## ZYBO/FPGA関連のリンク集
@@ -16,6 +18,7 @@
 * [Vivado で AXI の IP を作ってみる : 雑多な趣味の記録帳](https://tom01h.exblog.jp/27919922/)
 * [FPGAリテラシーおよびチュートリアル](http://marsee101.web.fc2.com/fpga_literacy_tutorial.html)
 * [FPGA(Zynq) 評価基板を使う(Zybo Z7編) - Qiita](https://qiita.com/ryos36/items/16816e19f2b8b1dbca31)
+* [High-Speed Real-Time Video Streaming Transmission - Hackster.io](https://www.hackster.io/DigilentContestTeam/high-speed-real-time-video-streaming-transmission-844481)  GigE Vision camera bridge prototype using the Zybo Z7-10 board with a Digilent Pcam 5C camera connected to it.
 
 * [FPGAの高位合成環境まとめ | Advanced Technology Lab](http://atl.recruit-tech.co.jp/blog/3844/)
 * [論理回路の高位合成について - Qiita](https://qiita.com/nekoaddict/items/cddde13a1322e94f44b8)  いろんな処理系の紹介
@@ -88,3 +91,7 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 * [書籍情報―TensorFlowを使った 「ニューラル・ネットワーク」の構築法](http://www.kohgakusha.co.jp/books/detail/978-4-7775-2058-9) 1つ上を本にしたもの
 * [年末のご挨拶と近況、あるいは機械学習のはじめ方 - 怠惰を求めて勤勉に行き着く](http://fushiroyama.hatenablog.com/entry/2018/12/20/054321) Tutorial
 * [研究者のための Python による FPGA 入門](https://www.slideshare.net/ryos36/python-fpga-74774921)
+* [画像処理100本ノックを作ったった - Qiita](https://qiita.com/yoyoyo_/items/2ef53f47f87dcf5d1e14)
+* [yoyoyo-yo/Gasyori100knock: 画像処理100本ノックして画像処理を画像処理して画像処理するためのもの For Japanese, English and Chinese](https://github.com/yoyoyo-yo/Gasyori100knock)
+* [ディープラーニング∞本ノック作ったった - Qiita](https://qiita.com/yoyoyo_/items/cd5b859341106c3b52f9)
+* [yoyoyo-yo/DeepLearningMugenKnock: でぃーぷらーにんぐを無限にやってディープラーニングでディープラニングするためのもの](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)

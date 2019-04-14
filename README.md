@@ -5,6 +5,7 @@ cond's public memo
 * [読み物/いろいろ](reading.md)
 * [FPGA](fpga.md)
 * [半導体](semiconductor.md)
+* [面白そうなもの](interesting.md)
 * [My links](links.md)
 * [AWS](aws.md)
 * [Scala](scala.md)
