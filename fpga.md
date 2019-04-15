@@ -10,7 +10,7 @@
 * [Vivado HLS で設計する浮動小数点行列乗算の Zynq アクセラレータ](https://japan.xilinx.com/support/documentation/application_notes/j_xapp1170-zynq-hls.pdf) チュートリアル
 * [FPGAでの割り算は怖くない: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2013/01/fpga-64ef.html) Core Generatorで除算回路を生成する話
 * [Training to use Zynq on ZYBO](http://www.ritsumei.ac.jp/se/re/izumilab/dist/axi2axis/) 立命館大学の演習ページ
-
+* [■PL部のみでLチカしたプロジェクトをSDブート化する - gogo fpga](http://gogofpga.blog.fc2.com/blog-entry-86.html)
 
 ## ZYBO/FPGA関連のリンク集
 
