@@ -1,10 +1,14 @@
 # FPGA
 
-## Zynq
+## Zynq(Xilinx)
 
 * [Vivado Design Suite](https://japan.xilinx.com/products/design-tools/vivado.html?resultsTablePreSelect=documenttype:User%20Guides#documentation) Xilnx公式ドキュメント集
 * [Zynq-7000 SoC - 性能およびアクセラレーション](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0054-zynq-7000-performance-and-benchmarks-hub.html)
 * [Zynq およびコプロセッサを使用したシステム パフォーマンスの向上 (日本語吹替)](https://japan.xilinx.com/video/soc/accelerating-system-performance-zynq.html) Zynq内蔵のCortex-A9にACP経由でコプロセッサを付ける
+* [Zynq-7000 SoC - データ ムーバー](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0051-zynq-7000-data-movement-hub.html) データの高速な移動について
+
+## Zynq
+
 * [Zynq + Vivado HLS入門](https://www.slideshare.net/narusugimoto/zynq-vivado-hls)
 * [ソフト屋がXilinx zynq-7000をさわってみた ～体験記～](http://openit.kek.jp/workshop/2016/nifs/presentation/sendai-zynq.pdf)
 * [Vivado HLS で設計する浮動小数点行列乗算の Zynq アクセラレータ](https://japan.xilinx.com/support/documentation/application_notes/j_xapp1170-zynq-hls.pdf) チュートリアル
