@@ -36,3 +36,21 @@ Brain Pad社のスライド:
 ## Python
 
 * [pythonでのデータ分析時、死ぬほど調べるTipsをまとめておく。 - プロクラシスト](https://www.procrasist.com/entry/python-tips)
+
+## ML/AIいろいろ
+
+* [[教えあいSlack付き]秒速DEEP LEARNING -Colaboratoryで入門〜応用ひとっ飛び- - - BOOTH](https://booth.pm/ja/items/1043171)
+* [【秒速で無料GPUを使う】深層学習実践Tips on Colaboratory - Qiita](https://qiita.com/tomo_makes/items/b3c60b10f7b25a0a5935) この本の元になった記事
+* [【技術書典】秒速DEEP LEARNING -Colaboratoryで〜ひとっとび-の感想文｜はやぶさの技術ノート](https://cpp-learning.com/deep_learning_colaboratory/) この本の感想文
+
+この本の著者は、Qiitaに「秒速〜」というタイトルでML関連の記事を上げている人らしい。「秒速」シリーズは、情報を集めている時に、認識していた。
+
+その他いろいろ。
+
+* [【スマホOK/実行しながら学ぶ】東大松尾研のデータサイエンティスト育成/ Deep Learning基礎講座を自習する - Qiita](https://qiita.com/tomo_makes/items/5d6f5860bb793e3b354a)
+* [Pythonと機械学習ができること 画像認識を工場の事例で試してみた | エンジニアの電気屋さん](https://misoji-engineer.com/archives/python-program.html)
+* [物体検知（Meta Study Group 発表資料）](https://www.slideshare.net/cvpaperchallenge/meta-study-group)
+* [手を動かしながら学べるディープラーニングの優良なチュートリアル - karaage. [からあげ]](https://karaage.hatenadiary.jp/entry/2018/10/29/073000) とても丁寧に多数のtutorialを紹介している。熟読。
+* [TensorFlow Liteのliteな話 - Qiita](https://qiita.com/hnakagawa/items/300e50134b03fb3e0350)
+* [TensorFlowのチュートリアルをやってみる（1） | mwSoft](http://www.mwsoft.jp/programming/tensor/tutorial_beginners.html)
+* [Neural networks and deep learning](http://nnadl-ja.github.io/nnadl_site_ja/index.html) 日本語訳

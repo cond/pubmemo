@@ -14,6 +14,9 @@
 * [Vivado HLS で設計する浮動小数点行列乗算の Zynq アクセラレータ](https://japan.xilinx.com/support/documentation/application_notes/j_xapp1170-zynq-hls.pdf) チュートリアル
 * [FPGAでの割り算は怖くない: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2013/01/fpga-64ef.html) Core Generatorで除算回路を生成する話
 * [Training to use Zynq on ZYBO](http://www.ritsumei.ac.jp/se/re/izumilab/dist/axi2axis/) 立命館大学の演習ページ
+* [XILINX 7 シリーズにおけるMMCM周波数の動的変更: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2014/03/xilinx-7-mmcm-1.html)
+* [ZYNQのFSBLが動かない場合の対処法: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2014/08/zynqfsbl-5f71.html)
+* [ZYNQではバイパスコンデンサが不要なのか？: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2014/04/zynq-8852.html)
 
 ### ZynqでPLのみの回路をSD化する
 
@@ -80,6 +83,8 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 * [ますます注目されるオープンCPUアーキテクチャRISC-Vの最新動向 - Speaker Deck](https://speakerdeck.com/msyksphinz/masumasuzhu-mu-sareruopuncpuakitekutiyarisc-vfalsezui-xin-dong-xiang) さまざまなRISC-Vの実装を紹介。必読
 
 * [f32c/f32c: A 32-bit RISC-V / MIPS ISA retargetable CPU core & SoC, 1.63 DMIPS/MHz](https://github.com/f32c/f32c)  A 32-bit RISC-V / MIPS ISA retargetable CPU core & SoC, 1.63 DMIPS/MHz
+
+* [VerilogでCPU設計入門](http://japanese.sugawara-systems.com/opencores/VPI/cpu.htm) CPUを自作する話。力作
 
 ## FPGA/ML
 
