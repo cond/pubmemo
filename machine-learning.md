@@ -32,6 +32,8 @@ Brain Pad社のスライド:
 * [yoyoyo-yo/Gasyori100knock: 画像処理100本ノックして画像処理を画像処理して画像処理するためのもの For Japanese, English and Chinese](https://github.com/yoyoyo-yo/Gasyori100knock)
 * [ディープラーニング∞本ノック作ったった - Qiita](https://qiita.com/yoyoyo_/items/cd5b859341106c3b52f9)
 * [yoyoyo-yo/DeepLearningMugenKnock: でぃーぷらーにんぐを無限にやってディープラーニングでディープラニングするためのもの](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
+* [Neural networks and deep learning](http://nnadl-ja.github.io/nnadl_site_ja/index.html) by Michael Nielsen
+* [TensorFlowのチュートリアルをやってみる（1） | mwSoft](http://www.mwsoft.jp/programming/tensor/tutorial_beginners.html)
 
 ## Python
 
