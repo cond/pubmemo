@@ -6,6 +6,7 @@
 * [Zynq-7000 SoC - 性能およびアクセラレーション](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0054-zynq-7000-performance-and-benchmarks-hub.html)
 * [Zynq およびコプロセッサを使用したシステム パフォーマンスの向上 (日本語吹替)](https://japan.xilinx.com/video/soc/accelerating-system-performance-zynq.html) Zynq内蔵のCortex-A9にACP経由でコプロセッサを付ける
 * [Zynq-7000 SoC - データ ムーバー](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0051-zynq-7000-data-movement-hub.html) データの高速な移動について
+* [Vivado HLS で設計する浮動小数点行列乗算の Zynq アクセラレータ](https://japan.xilinx.com/support/documentation/application_notes/j_xapp1170-zynq-hls.pdf) HLSのチュートリアル。やってみる。
 
 ## Zynq
 
@@ -115,3 +116,7 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 * [Zybo＋PetalinuxでUVCカメラを使う - how to code something](http://d.hatena.ne.jp/seinzumtode/20171120/1511167136)
 * [OpenCVで外接矩形と回転角の算出 - how to code something](http://d.hatena.ne.jp/seinzumtode/20171121/1511241157)
 * [zybo上での画像処理関連 - how to code something](http://d.hatena.ne.jp/seinzumtode/20171121/1511247282)
+
+## PetaLinux
+
+* [ZYBO-Z7を用いたLチカ(Petalinux編) - aster_ismの工作室](http://aster-ism.hatenablog.com/entry/2017/10/21/150717)

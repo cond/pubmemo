@@ -56,3 +56,5 @@ Brain Pad社のスライド:
 * [TensorFlow Liteのliteな話 - Qiita](https://qiita.com/hnakagawa/items/300e50134b03fb3e0350)
 * [TensorFlowのチュートリアルをやってみる（1） | mwSoft](http://www.mwsoft.jp/programming/tensor/tutorial_beginners.html)
 * [Neural networks and deep learning](http://nnadl-ja.github.io/nnadl_site_ja/index.html) 日本語訳
+
+* [MKL-DNNで学ぶIntel CPUの最適化手法 - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2019/04/15/170000)
