@@ -20,6 +20,8 @@ Brain Pad社のスライド:
 ## TensorFlow
 
 * [Google Developers Japan: BodyPix の概要: ブラウザと TensorFlow.js によるリアルタイム人セグメンテーション](https://developers-jp.googleblog.com/2019/04/bodypix-tensorflowjs.html?linkId=65622464)
+* [「機械学習はデータ集めるのが一番大変・・・」⇛Googleが大量の機械学習用データベースを無料公開してた - Qiita](https://qiita.com/ryuta69/items/90dd8d79b12e10606299)
+* [TensorFlowで画像認識「〇〇判別機」を作る - Qiita](https://qiita.com/too-ai/items/4fad0239b8b3c465fe6d)
 
 
 ## MLのチュートリアル
@@ -56,5 +58,6 @@ Brain Pad社のスライド:
 * [TensorFlow Liteのliteな話 - Qiita](https://qiita.com/hnakagawa/items/300e50134b03fb3e0350)
 * [TensorFlowのチュートリアルをやってみる（1） | mwSoft](http://www.mwsoft.jp/programming/tensor/tutorial_beginners.html)
 * [Neural networks and deep learning](http://nnadl-ja.github.io/nnadl_site_ja/index.html) 日本語訳
+* [Google Colaboratoryを便利に使うためのTIPSまとめ - karaage. [からあげ]](https://karaage.hatenadiary.jp/entry/2018/12/17/073000)
 
 * [MKL-DNNで学ぶIntel CPUの最適化手法 - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2019/04/15/170000)
