@@ -61,6 +61,8 @@ FPGA開発日記: 興味ぶかい
 
 * [HDLによるFPGA設計](http://zakii.la.coocan.jp/hdl/0_contents.htm) Tipが集められている
 * [Verilog-HDL Simulation環境](http://altmo.html.xdomain.jp/src_00/2015_0100/00.html)
+* [100 Power Tips for FPGA Designers - ぱたへね！](http://natsutan.hatenablog.com/entry/20120808/1344381574)
+
 
 ## CPU design
 
@@ -87,6 +89,12 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 
 * [VerilogでCPU設計入門](http://japanese.sugawara-systems.com/opencores/VPI/cpu.htm) CPUを自作する話。力作
 
+## Mathematic
+
+* [FPGA用にシンプルな浮動小数点数演算器を作る - Qiita](https://qiita.com/tvrcw/items/e20b26eafba365056916)
+
+
+
 ## FPGA/ML
 
 * [モデルはKerasで書いて、Google ColabでTPUを使いましょう！ ( ソフトウェア ) - @Vengineerの戯言 - Yahoo!ブログ](https://blogs.yahoo.co.jp/verification_engineer/71881982.html)
@@ -110,13 +118,28 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 * [yoyoyo-yo/Gasyori100knock: 画像処理100本ノックして画像処理を画像処理して画像処理するためのもの For Japanese, English and Chinese](https://github.com/yoyoyo-yo/Gasyori100knock)
 * [ディープラーニング∞本ノック作ったった - Qiita](https://qiita.com/yoyoyo_/items/cd5b859341106c3b52f9)
 * [yoyoyo-yo/DeepLearningMugenKnock: でぃーぷらーにんぐを無限にやってディープラーニングでディープラニングするためのもの](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
+* [Zynq MPSoc Book – With PNYQ and Machine Learning Applications](https://www.zynq-mpsoc-book.com/)
 
 ## 画像処理
 
 * [Zybo＋PetalinuxでUVCカメラを使う - how to code something](http://d.hatena.ne.jp/seinzumtode/20171120/1511167136)
 * [OpenCVで外接矩形と回転角の算出 - how to code something](http://d.hatena.ne.jp/seinzumtode/20171121/1511241157)
 * [zybo上での画像処理関連 - how to code something](http://d.hatena.ne.jp/seinzumtode/20171121/1511247282)
+* [High-Speed Real-Time Video Streaming Transmission - Hackster.io](https://www.hackster.io/DigilentContestTeam/high-speed-real-time-video-streaming-transmission-844481)
 
 ## PetaLinux
 
 * [ZYBO-Z7を用いたLチカ(Petalinux編) - aster_ismの工作室](http://aster-ism.hatenablog.com/entry/2017/10/21/150717)
+
+## 書籍・雑誌
+
+「FPGAキットで始める ハード&ソフト丸ごと設計」
+
+* [FPGAキットで始めるハード&ソフト丸ごと設計 - kuriken12の日記](http://d.hatena.ne.jp/kuriken12/20130430/1367315308) 著者による紹介記事
+* [FPGAキットで始めるハード&ソフト丸ごと設計 - ぱたへね！](http://natsutan.hatenablog.com/entry/20130506/1367829777)
+* [PDFのサンプル CQ出版](http://www.cqpub.co.jp/hanbai/books/46/46101/46101.pdf)
+
+
+「実用HDLサンプル記述集」
+
+* [実用HDLサンプル記述集【PDF版＋サンプル・ファイル】 ](https://cc.cqpub.co.jp/lib/system/doclib_item/1088/)
