@@ -3,6 +3,7 @@
 ## Zynq(Xilinx)
 
 * [Vivado Design Suite](https://japan.xilinx.com/products/design-tools/vivado.html?resultsTablePreSelect=documenttype:User%20Guides#documentation) Xilnx公式ドキュメント集
+* [](https://japan.xilinx.com/support/documentation/data_sheets/j_ds190-Zynq-7000-Overview.pdf)
 * [Zynq-7000 SoC - 性能およびアクセラレーション](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0054-zynq-7000-performance-and-benchmarks-hub.html)
 * [Zynq およびコプロセッサを使用したシステム パフォーマンスの向上 (日本語吹替)](https://japan.xilinx.com/video/soc/accelerating-system-performance-zynq.html) Zynq内蔵のCortex-A9にACP経由でコプロセッサを付ける
 * [Zynq-7000 SoC - データ ムーバー](https://japan.xilinx.com/support/documentation-navigation/design-hubs/dh0051-zynq-7000-data-movement-hub.html) データの高速な移動について
@@ -131,15 +132,26 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 
 * [ZYBO-Z7を用いたLチカ(Petalinux編) - aster_ismの工作室](http://aster-ism.hatenablog.com/entry/2017/10/21/150717)
 
+## Pmod OLED (有機ELディスプレー)
+
+* [OLED(有機EL)高速駆動: Ryuzのブログ](http://ryuz.txt-nifty.com/blog/2018/02/oled-a268.html)
+* [Getting the PmodOLEDrgb to Work on Zybo: 10 Steps](https://www.instructables.com/id/Getting-the-PmodOLEDrgb-to-Work-on-Zybo/)
+* [DE0でFPGAマスターをめざせ！ - PMOD OLEDRGB](https://sites.google.com/site/de0defpga/pmod-interface/pmod-oled-rgb) CycloneでNIOSを使った例
+* [PYNQ 祭り: Pmod のプログラミング](https://www.slideshare.net/ryos36/pynq-pmod) OLEDに触れている
+
 ## 書籍・雑誌
 
-「FPGAキットで始める ハード&ソフト丸ごと設計」
+「FPGAキットで始める ハード&ソフト丸ごと設計」(購入済み)
 
 * [FPGAキットで始めるハード&ソフト丸ごと設計 - kuriken12の日記](http://d.hatena.ne.jp/kuriken12/20130430/1367315308) 著者による紹介記事
 * [FPGAキットで始めるハード&ソフト丸ごと設計 - ぱたへね！](http://natsutan.hatenablog.com/entry/20130506/1367829777)
 * [PDFのサンプル CQ出版](http://www.cqpub.co.jp/hanbai/books/46/46101/46101.pdf)
 
 
-「実用HDLサンプル記述集」
+「実用HDLサンプル記述集」(購入済み)
 
 * [実用HDLサンプル記述集【PDF版＋サンプル・ファイル】 ](https://cc.cqpub.co.jp/lib/system/doclib_item/1088/)
+
+「ディジタル・ハードウェア設計の基礎と実践」 小林 芳直 著
+
+* [[絶版2015.10.1] ディジタル・ハードウェア設計の基礎と実践](https://www.cqpub.co.jp/hanbai/books/38/38601.htm) (紙は絶版)
