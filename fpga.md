@@ -90,6 +90,8 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 
 * [VerilogでCPU設計入門](http://japanese.sugawara-systems.com/opencores/VPI/cpu.htm) CPUを自作する話。力作
 
+* [ourfool/poyo-v: Open source RISC-V IP core for FPGA/ASIC design](https://github.com/ourfool/poyo-v) poyo-vはFPGAやASICに使えるRISC-Vソフトプロセッサです。誰でも容易に拡張・インプリメントできるインオーダ・スーパースカラプロセッサを目指してVerilog HDLで開発されています。
+
 ## Mathematic
 
 * [FPGA用にシンプルな浮動小数点数演算器を作る - Qiita](https://qiita.com/tvrcw/items/e20b26eafba365056916)
