@@ -18,3 +18,4 @@ cond's public memo
 * [Startup stories](startup.md)
 * [Front End](frontend.md)
 * [Python](python.md)
+* [C++](c-plusplus.md)
