@@ -1,7 +1,5 @@
 # C++
 
-
-
 * [Effective C++を読んで心に響いたこと - MyEnigma](https://myenigma.hatenablog.com/entry/2015/05/10/184719)
 * [Google C++スタイルガイドを読んで気がついたこと - MyEnigma](https://myenigma.hatenablog.com/entry/20140812/1407817246)
 * [Google C++ スタイルガイド(日本語全訳) Google C++ Style Guide (Japanese)](https://ttsuki.github.io/styleguide/cppguide.ja.html#C++_Version)
@@ -14,7 +12,7 @@
 * [C++の劇的な進化に圧倒されるModern C++ | I love software2!I love software2!](https://blog.antenna.co.jp/ILSoft2/archives/8850)
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/)
 
-## ツール
+## ツール・開発環境
 
 C++のコードリード用のツールを調べる。
 Doxygen、Graphvizが良いらしい。確かにDoxygenは基本かも。
@@ -22,3 +20,7 @@ Doxygenは、クラス関係図を生成してくれて、それをGraphvizで�
 
 * [コードリーディングのお供には Doxygen & Graphviz が良いかもしれない | きのこる庭](http://kinokoru.jp/archives/399)
 * [ソースコードを読むのに Doxygen + Graphviz が便利な件 | CUBE SUGAR STORAGE](https://momijiame.tumblr.com/post/23166110981/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%AA%AD%E3%82%80%E3%81%AE%E3%81%AB-doxygen-graphviz-%E3%81%8C%E4%BE%BF%E5%88%A9%E3%81%AA%E4%BB%B6)
+
+* [Emacs で C/C++ の開発環境をめちゃガチャパワーアップしたまとめ | Futurismo](https://futurismo.biz/archives/3071)
+* [C++11時代のEmacs C++コーディング環境 - Qiita](https://qiita.com/alpha22jp/items/90f7f2ad4f8b1fa089f4)
+* [WSL(Ubuntu)のC++開発環境を Visual Studio Codeで構築 | ある計算機屋さんの手帳](http://my-web-site.iobb.net/~yuki/2018-03/soft-tool/wsl-vscode/)
