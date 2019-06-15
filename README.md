@@ -1,6 +1,7 @@
 # pubmemo
 cond's public memo
 
+* [便利なサイト](useful-sites.html)
 * [機械学習](machine-learning.md)
 * [読み物/いろいろ](reading.md)
 * [FPGA](fpga.md)
