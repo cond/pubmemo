@@ -20,3 +20,4 @@ cond's public memo
 * [Front End](frontend.md)
 * [Python](python.md)
 * [C++](c-plusplus.md)
+* [CPU](cpu.md)

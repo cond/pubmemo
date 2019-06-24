@@ -20,6 +20,7 @@
 * [ZYNQのFSBLが動かない場合の対処法: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2014/08/zynqfsbl-5f71.html)
 * [ZYNQではバイパスコンデンサが不要なのか？: なひたふJTAG日記](http://nahitafu.cocolog-nifty.com/nahitafu/2014/04/zynq-8852.html)
 * [FPGAの部屋 Vivado HLSで関数内のBRAMを関数外から制御する1](http://marsee101.blog19.fc2.com/blog-entry-4071.html)
+* [Vivado HLSでRGB/HSV + HOG + SVMの高速物体検出をする2（完成） - lp6m’s blog](http://lp6m.hatenablog.com/entry/2019/06/24/175846)
 
 ### ZynqでPLのみの回路をSD化する
 
