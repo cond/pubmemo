@@ -21,3 +21,4 @@ cond's public memo
 * [Python](python.md)
 * [C++](c-plusplus.md)
 * [CPU](cpu.md)
+* [Emacs](emacs.md)
