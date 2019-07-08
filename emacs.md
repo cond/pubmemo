@@ -5,7 +5,6 @@
 * [Emacsにyasnippetを導入＆スニペットの登録方法 | vdeep](http://vdeep.net/emacs-yasnippet)
 * [Emacsでyasnippetを使う - 計算物理屋の研究備忘録](http://keisanbutsuriya.hateblo.jp/entry/2015/12/12/181028)
 * [yasnippetの使い方 [QumaWiki]](https://www-he.scphys.kyoto-u.ac.jp/member/shotakaha/dokuwiki/doku.php?id=toolbox:emacs:yasnippet:start)
-* [yasnippetの使い方 [QumaWiki]](https://www-he.scphys.kyoto-u.ac.jp/member/shotakaha/dokuwiki/doku.php?id=toolbox:emacs:yasnippet:start)
 
 ## rtags
 
