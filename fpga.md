@@ -159,3 +159,7 @@ FPGA開発日記のブログは、とても勉強になる。いろいろなCPU�
 「ディジタル・ハードウェア設計の基礎と実践」 小林 芳直 著
 
 * [[絶版2015.10.1] ディジタル・ハードウェア設計の基礎と実践](https://www.cqpub.co.jp/hanbai/books/38/38601.htm) (紙は絶版)
+
+## Misc
+
+* [AI EdgeハードウェアMeetup in 福岡やりました！ - すずきぃ Diary](https://ksuzukiii.hatenablog.com/entry/2019/07/16/213031)
