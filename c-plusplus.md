@@ -9,8 +9,14 @@
 * [初心者 C++er Advent Calendar 2015 - Adventar](https://adventar.org/calendars/922) 参考になるかもしれない。
 * [Effective Modern C++ メモ - Qiita](https://qiita.com/ktsujino/items/39c8bc23dcdc1f7b17ab)
 * [モダン C++ プログラミング - 日本語公開記事 - サイボウズエンジニアのWIKI](https://cybozu.atlassian.net/wiki/spaces/pubjp/pages/8159240/C+)
+* [『Effective Modern C++』勉強会まとめ - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2015/10/05/104021)
 * [C++の劇的な進化に圧倒されるModern C++ | I love software2!I love software2!](https://blog.antenna.co.jp/ILSoft2/archives/8850)
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/)
+* [C++のムーブと完全転送を知る - Fixstars Tech Blog /proc/cpuinfo](http://proc-cpuinfo.fixstars.com/2016/03/c-html/)
+* [C++11, C++14, C++17 新機能まとめ ～使いそうなものだけ - Qiita](https://qiita.com/leon-joel/items/81415c1ef355c6246280)
+* [C++ へようこそ (Modern C++) | Microsoft Docs](https://docs.microsoft.com/ja-jp/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
+* [C++11からC++17を駆け抜けるC++講座 - Qiita](https://qiita.com/yumetodo/items/68f58de43094519ae899)
+* [ゲーム開発者のための C++11/C++14](https://www.slideshare.net/Reputeless/c11c14)
 
 ## ツール・開発環境
 
