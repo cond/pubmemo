@@ -22,3 +22,4 @@ cond's public memo
 * [C++](c-plusplus.md)
 * [CPU](cpu.md)
 * [Emacs](emacs.md)
+* [Jetson nano](jetson-nano.md)
