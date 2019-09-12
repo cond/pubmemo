@@ -3,6 +3,7 @@ cond's public memo
 
 * [便利なサイト](useful-sites.html)
 * [機械学習](machine-learning.md)
+* [TensorFlow](tensorflow.md)
 * [読み物/いろいろ](reading.md)
 * [FPGA](fpga.md)
 * [半導体](semiconductor.md)
