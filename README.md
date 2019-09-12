@@ -23,3 +23,4 @@ cond's public memo
 * [CPU](cpu.md)
 * [Emacs](emacs.md)
 * [Jetson nano](jetson-nano.md)
+* [Development tools](development-tools.md)
