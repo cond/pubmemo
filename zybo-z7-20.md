@@ -21,3 +21,15 @@ Digilent社の各種ボードのPetaLinuxのサポート状況情報
 DigilentのVivado向けのIPライブラリ
 
 * [Digilent/vivado-library](https://github.com/Digilent/vivado-library)
+
+## 参考になるページ
+
+* [Zybo 開発環境構築記: Ryuzのブログ](http://ryuz.txt-nifty.com/blog/2018/04/zybo-2f5e.html)
+
+実際にシンプルなハードウェアをZyboで定義して、それをPetaLinuxに読ませてLinuxイメージを生成する手順が細かく説明されている。
+
+* [ZYBO (Zynq) 初心者ガイド (8) Linux起動する - Qiita](https://qiita.com/iwatake2222/items/6e6915f7318689818368) 
+
+全部入りLinuxのブートイメージ。Zybo Z7-20用もある。
+
+* [FPGA+SoC+Linux+Device Tree Overlay+FPGA Region(ブートイメージの提供) - Qiita](https://qiita.com/ikwzm/items/7e90f0ca2165dbb9a577)
