@@ -17,3 +17,7 @@ Vivadoでプロジェクトを作って、そこからBSPを生成できます�
 Digilent社の各種ボードのPetaLinuxのサポート状況情報
 
 * [Petalinux Support for Digilent Boards [Reference.Digilentinc]](https://reference.digilentinc.com/reference/software/petalinux/start) 
+
+DigilentのVivado向けのIPライブラリ
+
+* [Digilent/vivado-library](https://github.com/Digilent/vivado-library)
