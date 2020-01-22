@@ -22,6 +22,12 @@ DigilentのVivado向けのIPライブラリ
 
 * [Digilent/vivado-library](https://github.com/Digilent/vivado-library)
 
+## Xilinx documents
+
+チュートリアル。
+
+* [Zynq-7000 All Programmable SoC:エンベデッドデザインチュートリアル -- 効率的なエンベデッドシステムを構築するためのハンディガイド UG1165 (v2017.4)](https://www.xilinx.com/support/documentation/sw_manuals_j/xilinx2017_4/ug1165-zynq-embedded-design-tutorial.pdf)
+
 ## 参考になるページ
 
 * [Zybo 開発環境構築記: Ryuzのブログ](http://ryuz.txt-nifty.com/blog/2018/04/zybo-2f5e.html)
