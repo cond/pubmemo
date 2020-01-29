@@ -22,11 +22,36 @@ DigilentのVivado向けのIPライブラリ
 
 * [Digilent/vivado-library](https://github.com/Digilent/vivado-library)
 
+## Digilentのチュートリアル
+
+* [Zybo Z7 Reference Manual [Reference.Digilentinc]](https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/reference-manual) Zybo Z7リファレンスマニュアル
+
+* [Getting Started with Vivado IP Integrator [Reference.Digilentinc]](https://reference.digilentinc.com/vivado/getting-started-with-ipi/start?_ga=2.107851842.133077564.1579780347-1146242163.1575210715)
+
+
 ## Xilinx documents
 
-チュートリアル。
+ZilinxのSDK関連のドキュメントサイト
 
-* [Zynq-7000 All Programmable SoC:エンベデッドデザインチュートリアル -- 効率的なエンベデッドシステムを構築するためのハンディガイド UG1165 (v2017.4)](https://www.xilinx.com/support/documentation/sw_manuals_j/xilinx2017_4/ug1165-zynq-embedded-design-tutorial.pdf)
+* [Software Development Kit (SDK)](https://japan.xilinx.com/support/documentation-navigation/self-paced-tutorials/software-development-kit-sdk.html)
+
+### チュートリアル
+
+* [Vivado Design Suite チュートリアル: エンベデッド プロセッサ ハードウェア デザイン(UG940)](https://japan.xilinx.com/support/documentation/sw_manuals_j/xilinx2019_2/ug940-vivado-tutorial-embedded-design.pdf)
+* [Zynq-7000 All Programmable SoC:エンベデッドデザインチュートリアル -- 効率的なエンベデッドシステムを構築するためのハンディガイド UG1165 (v2017.4)](https://www.xilinx.com/support/documentation/sw_manuals_j/xilinx2017_4/ug1165-zynq-embedded-design-tutorial.pdf) これは良い
+
+### リファレンス
+
+* [Vivado Design Suite Tclコマンドリファレンス](https://japan.xilinx.com/support/documentation/sw_manuals_j/xilinx2019_1/ug835-vivado-tcl-commands.pdf)
+
+Synthesisのマニュアル。4章で、種々の回路の構成要素(シフトレジスタ、乗算器など)のVerilog/VHDLでの記述法を説明している。
+
+* [Vivado Design Suiteユーザーガイド 合成 UG901 (v2018.2)](https://www.xilinx.com/support/documentation/sw_manuals_j/xilinx2018_2/ug901-vivado-synthesis.pdf)
+
+IPを利用してデザインをする方法。
+
+* [Vivado Design Suiteユーザーガイド IPを使用した設計 UG896 (v2017.1)](https://www.xilinx.com/support/documentation/sw_manuals_j/xilinx2017_1/ug896-vivado-ip.pdf)
+
 
 ## 参考になるページ
 
