@@ -52,6 +52,9 @@ IPを利用してデザインをする方法。
 
 * [Vivado Design Suiteユーザーガイド IPを使用した設計 UG896 (v2017.1)](https://www.xilinx.com/support/documentation/sw_manuals_j/xilinx2017_1/ug896-vivado-ip.pdf)
 
+* [Vivado IP Integratorでよく使う便利なIPコア16選 - Qiita](https://qiita.com/s_nkg/items/f2928fb727238d14f23f)
+* [FPGAの部屋 IP Integrator のブロックデザインで使うと便利なIP](https://marsee101.blog.fc2.com/blog-entry-3209.html)
+
 
 ## 参考になるページ
 
