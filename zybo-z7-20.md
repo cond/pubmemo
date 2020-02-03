@@ -25,9 +25,11 @@ DigilentのVivado向けのIPライブラリ
 ## Digilentのチュートリアル
 
 * [Zybo Z7 Reference Manual [Reference.Digilentinc]](https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/reference-manual) Zybo Z7リファレンスマニュアル
-
 * [Getting Started with Vivado IP Integrator [Reference.Digilentinc]](https://reference.digilentinc.com/vivado/getting-started-with-ipi/start?_ga=2.107851842.133077564.1579780347-1146242163.1575210715)
+* [Getting Started with Zynq Servers [Reference.Digilentinc]](https://reference.digilentinc.com/learn/programmable-logic/tutorials/zybo-getting-started-with-zynq-server/start)
+* [Zybo Z7 Pcam 5C Demo [Reference.Digilentinc]](https://reference.digilentinc.com/learn/programmable-logic/tutorials/zybo-z7-pcam-5c-demo/start)
 
+* [Programmable Logic Tutorials [Reference.Digilentinc]](https://reference.digilentinc.com/learn/programmable-logic/tutorials/start)
 
 ## Xilinx documents
 
