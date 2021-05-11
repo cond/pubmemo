@@ -1,7 +1,7 @@
 # pubmemo
 cond's public memo
 
-* [面白そうなツールなど](tools.md)
+* [面白そうなツール、ライブラリなど](tools.md)
 * [便利なサイト](useful-sites.html)
 * [機械学習](machine-learning.md)
 * [TensorFlow](tensorflow.md)

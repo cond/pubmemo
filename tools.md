@@ -1,6 +1,6 @@
-# Tools, Sites
+# Tools, Libraries
 
-面白そうなツール、サイトをメモっていきます。
+面白そうなツール、ライブラリをメモっていきます。
 
 ## Ionic
 
@@ -27,4 +27,5 @@ Seaborn is a Python data visualization library based on matplotlib. It provides 
 ## VcXsrv
 
 Windows上で動くXサーバー。WSL2と組み合わせて使われることが多いようだ。
-* [FPGAの部屋 X サーバーの VcXsrv を WSL2 で使用する](https://marsee101.blog.fc2.com/blog-entry-4932.html) で紹介されていた。
+
+[FPGAの部屋 X サーバーの VcXsrv を WSL2 で使用する](https://marsee101.blog.fc2.com/blog-entry-4932.html) で紹介されていた。
