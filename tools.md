@@ -16,3 +16,10 @@ matplotlibをベースにしたPythonのデータ可視可ライブラリ。
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
+## Rufus
+
+起動可能なUSBドライブを簡単に作成できます
+
+* [Rufus - 起動可能なUSBドライブを簡単に作成できます](https://rufus.ie/ja/)
+
+[自作回路を PYNQ につなぐ様々な方法 (1) | ACRi Blog](https://www.acri.c.titech.ac.jp/wordpress/archives/11224) で紹介されていた。
