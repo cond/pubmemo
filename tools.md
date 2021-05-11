@@ -2,6 +2,17 @@
 
 面白そうなツール、サイトをメモっていきます。
 
+## Ionic
+
 * [Open-Source UI Toolkit to Create Your Own Mobile or Desktop Apps](https://ionicframework.com/jp/docs/) Ionic Framework
 
 Ionic FrameworkはオープンソースのUIツールキットで、HTML、CSS、JavaScriptなどのウェブ技術を使って、 Angular や React 、 Vue といった人気フレームワークと併用することで高性能で高品質なモバイルアプリやデスクトップアプリを作ることができます。
+
+## seaborn
+
+matplotlibをベースにしたPythonのデータ可視可ライブラリ。
+
+* [seaborn: statistical data visualization — seaborn 0.11.1 documentation](https://seaborn.pydata.org/)
+
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
