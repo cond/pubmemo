@@ -10,7 +10,7 @@ Ionic FrameworkはオープンソースのUIツールキットで、HTML、CSS�
 
 ## seaborn
 
-matplotlibをベースにしたPythonのデータ可視可ライブラリ。
+matplotlibをベースにしたPythonのデータ可視化ライブラリ。
 
 * [seaborn: statistical data visualization — seaborn 0.11.1 documentation](https://seaborn.pydata.org/)
 
@@ -18,7 +18,7 @@ Seaborn is a Python data visualization library based on matplotlib. It provides 
 
 ## Rufus
 
-起動可能なUSBドライブを簡単に作成できます
+起動可能なUSBドライブを簡単に作成
 
 * [Rufus - 起動可能なUSBドライブを簡単に作成できます](https://rufus.ie/ja/)
 
