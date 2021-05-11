@@ -23,3 +23,8 @@ Seaborn is a Python data visualization library based on matplotlib. It provides 
 * [Rufus - 起動可能なUSBドライブを簡単に作成できます](https://rufus.ie/ja/)
 
 [自作回路を PYNQ につなぐ様々な方法 (1) | ACRi Blog](https://www.acri.c.titech.ac.jp/wordpress/archives/11224) で紹介されていた。
+
+## VcXsrv
+
+Windows上で動くXサーバー。WSL2と組み合わせて使われることが多いようだ。
+* [FPGAの部屋 X サーバーの VcXsrv を WSL2 で使用する](https://marsee101.blog.fc2.com/blog-entry-4932.html) で紹介されていた。
