@@ -29,3 +29,9 @@ Seaborn is a Python data visualization library based on matplotlib. It provides 
 Windows上で動くXサーバー。WSL2と組み合わせて使われることが多いようだ。
 
 [FPGAの部屋 X サーバーの VcXsrv を WSL2 で使用する](https://marsee101.blog.fc2.com/blog-entry-4932.html) で紹介されていた。
+
+## Public access Multics
+
+Multicsエミュレーションのサイト。Multicsにログインして利用(?)することができる
+
+* [BAN.AI Public Access Multics](https://ban.ai/multics/)
