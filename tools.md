@@ -35,3 +35,11 @@ Windows上で動くXサーバー。WSL2と組み合わせて使われること�
 Multicsエミュレーションのサイト。Multicsにログインして利用(?)することができる
 
 * [BAN.AI Public Access Multics](https://ban.ai/multics/)
+
+## PySimpleGUI
+
+tkinter、Qt、WxPython、およびRemi（ブラウザベース）のGUIフレームワークを、よりシンプルなインタフェースに変換します。ウィンドウ定義は初心者が理解するPythonコアデータ型（リストと辞書）を使用して簡略化されます。コールバックベースのモデルからメッセージを渡すモデルにイベント処理を変更することでさらに単純化が行われます。
+
+* [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+
+* [PySimpleGUI/readme.ja.md at master · PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI/blob/master/readme.ja.md) 日本語README.md
