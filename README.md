@@ -2,6 +2,7 @@
 cond's public memo
 
 * [面白そうなツール、ライブラリなど](tools.md)
+* [面白そうな事ども](interesting-thing.md)
 * [便利なサイト](useful-sites.html)
 * [機械学習](machine-learning.md)
 * [TensorFlow](tensorflow.md)
