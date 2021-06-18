@@ -49,9 +49,10 @@ tkinter、Qt、WxPython、およびRemi（ブラウザベース）のGUIフレ�
 Rust製のdiff表示ツール「delta」
 
 gitの差分が見やすくなって良い感じ。
-* 行内差分が強調表示される
-* side-by-side表示ができる
-* シンタックスハイライトが効く
-* 表示スタイルを簡単にカスタムできる
+
+    行内差分が強調表示される
+    side-by-side表示ができる
+    シンタックスハイライトが効く
+    表示スタイルを簡単にカスタムできる
 
 * [dandavison/delta: A viewer for git and diff output](https://github.com/dandavison/delta)
