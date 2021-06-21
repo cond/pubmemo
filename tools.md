@@ -46,9 +46,7 @@ tkinter、Qt、WxPython、およびRemi（ブラウザベース）のGUIフレ�
 
 ## delta
 
-Rust製のdiff表示ツール「delta」
-
-gitの差分が見やすくなって良い感じ。
+Rust製のdiff表示ツール「delta」。gitの差分が見やすくなる。
 
     行内差分が強調表示される
     side-by-side表示ができる
@@ -56,3 +54,10 @@ gitの差分が見やすくなって良い感じ。
     表示スタイルを簡単にカスタムできる
 
 * [dandavison/delta: A viewer for git and diff output](https://github.com/dandavison/delta)
+
+## cocotb
+
+cocotbは、Pythonで記述できるテストベンチ作成ユーティリティ
+
+* [cocotbを試す（1.導入） - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2015/06/29/020000)
+* [VerilogのテストにPython製フレームワーク「cocotb」を使う。 - Qiita](https://qiita.com/tethys_seesaa/items/99504dede7657f1619ce)
