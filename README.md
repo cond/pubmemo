@@ -5,6 +5,7 @@ cond's public memo
 * [面白そうな事ども](interesting-thing.md)
 * [MicroPython](micropython.md)
 * [LLVM](llvm.md)
+* [RISC-V](risc-v.md)
 * [便利なサイト](useful-sites.html)
 * [機械学習](machine-learning.md)
 * [TensorFlow](tensorflow.md)
