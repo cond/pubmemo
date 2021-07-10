@@ -7,6 +7,8 @@ cond's public memo
 * [LLVM](llvm.md)
 * [RISC-V](risc-v.md)
 * [WebAssembly](webassembly.md)
+* [電子部品](electronic-parts.md)
+
 * [便利なサイト](useful-sites.html)
 * [機械学習](machine-learning.md)
 * [TensorFlow](tensorflow.md)
