@@ -61,3 +61,8 @@ cocotbは、Pythonで記述できるテストベンチ作成ユーティリテ�
 
 * [cocotbを試す（1.導入） - FPGA開発日記](https://msyksphinz.hatenablog.com/entry/2015/06/29/020000)
 * [VerilogのテストにPython製フレームワーク「cocotb」を使う。 - Qiita](https://qiita.com/tethys_seesaa/items/99504dede7657f1619ce)
+
+## drawio
+
+描画ツール(visio的なもの)。VSCodeと共に使えるようだ。
+* [Draw.io でフローチャートを書いてみよう！ | DevelopersIO](https://dev.classmethod.jp/articles/draw-io/)
